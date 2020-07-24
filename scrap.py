@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup
 # ex. tdFavE81131 or tdFavE81131R
 departmentInfo = re.compile("([\sA-Z]+)+\s[(]([A-Z]+[0-9]*){1}[)]{1}")
 class_td = re.compile("\\b(tdFav){1}([A-Z]){1}([0-9]{2}){1}([0-9]{3,4}){1}([ATSNMR])?\\b")
-class_info = re.compile("\\b([A-Z]{1}[0-9]{2}){1}\s([A-Z]{3}){1}\s([0-9]{3,4}[ATSNMR]?)\\b")
 tr_class_info = re.compile("\\b(tr){1}[A-Z]{1}([0-9]{2}){1}([0-9]{3,4}){1}([A-Z])?([0-9]{1,3})?[A-Z]{1}\\b")
 finalExamStartDayAndtime = re.compile('\\b(([A-Z]{1}[a-z]{2}){1}([\s]{1}){1}([\w]{1,2}){1}([\s]{1}){1}([\w]{4})){1}([\s]{1}){1}(([0-9]|0[0-9]|1[0-9]|2[0-3]):([0-5][0-9])\s*([AaPp][Mm]))\\b')
 
@@ -92,10 +91,12 @@ class Class:
             self.instructor = cleanString(str.contents[0])
 
     def setStartDate(self, str):
-        self.startDate = cleanString(str)
+        if str is not None:
+            self.startDate = cleanString(str)
 
     def setEndDate(self, str):
-        self.endDate = cleanString(str)
+        if str is not None:
+            self.endDate = cleanString(str)
 
 
 
@@ -218,8 +219,10 @@ def parseFile(file):
     # Add the courses with detail
     for i, course in enumerate(department.courses):
         course.setDescription(description[i])
-        x = class_info.findall(course.courseTag)
-        tag = x[0][0]+x[0][2]
+        tag_split = course.courseTag.split()
+        if len(tag_split) == 0:
+            sys.exit("Failed to get class tag.")
+        tag = tag_split[0]+tag_split[-1]
         for tr in allTr:
             if tag in tr.attrs.get("id"):
                 classDetailTD = tr.find_all("td")

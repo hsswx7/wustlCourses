@@ -1,0 +1,2310 @@
+{
+    "departmentName": " ENVIRONMENTAL AND CHEMICAL ENGR",
+    "departmentCode": "E44",
+    "courses": [
+        {
+            "courseName": "Introduction to Energy, Environmental and Chemical Engineering",
+            "courseTag": "E44 EECE 101",
+            "units": "3.0",
+            "description": "Key technical issues that face our society and some of the emerging technologies that hold promise for the future are examined and discussed. Relationship to chemical engineering principles is emphasized.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "2:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Giammar",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=370502",
+                    "finalExam": {
+                        "type": "Dec 15 2020 1:00PM - 3:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Topics in Energy, Environmental and Chemical Engineering",
+            "courseTag": "E44 EECE 103",
+            "units": "1.0",
+            "description": "Key technical issues that face our society and some of the emerging technologies that hold promise for the future are examined and discussed. Emphasizes providing a broader context for content delivered in concurrent core chemical and environmental engineering courses.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday"
+                    ],
+                    "startTime": "11:30 AM",
+                    "endTime": "12:50PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Solanki",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=469981",
+                    "finalExam": {
+                        "type": "Dec 15 2020 10:30AM - 12:30PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Earth's Future: Causes and Consequences of Global Climate Change",
+            "courseTag": "E44 EECE 112",
+            "units": "3.0",
+            "description": "Earth's Future: Causes and Consequences of Global Climate Change examines 1) the physical basis for climate change; 2) how climates are changing and how we know and assess that climates are changing; and 3) the effects of climate change on natural and human systems. The course is team-taught and will involve participation by scholars across the university with expertise in specific subjects. This is a broad, introductory course for first year students and presumes no special subject matter knowledge on the part of the student.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "2:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Kidder",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=376118",
+                    "finalExam": {
+                        "type": "Dec 15 2020 1:00PM - 3:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "A",
+                    "days": [
+                        "Tuesday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "4:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Diaz",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=465616",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "B",
+                    "days": [
+                        "Wednesday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "4:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "[TBA]",
+                    "instructorLink": "",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "C",
+                    "days": [
+                        "Tuesday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "4:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "[TBA]",
+                    "instructorLink": "",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "D",
+                    "days": [
+                        "Wednesday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "1:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "[TBA]",
+                    "instructorLink": "",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "E",
+                    "days": [
+                        "Friday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "1:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "[TBA]",
+                    "instructorLink": "",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Process Analysis and Thermodynamics",
+            "courseTag": "E44 EECE 205",
+            "units": "4.0",
+            "description": "Introduction to the use of mathematics and methods of engineering in analysis of chemical and physical processes. Use of balances (mass, energy, entropy) to describe processes with and without chemical reaction in both transient and steady state conditions. Classical thermodynamics focused on processes, first and second laws, and properties of pure substances. Prerequisite: Chem 112A or Chem 106 Corequisite: Math 217 or permission of instructor",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "4:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Williams",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=416757",
+                    "finalExam": {
+                        "type": "Dec 16 2020 3:30PM - 5:30PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "A",
+                    "days": [
+                        "Friday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "1:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Zhang",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428145",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "B",
+                    "days": [
+                        "Friday"
+                    ],
+                    "startTime": "2:00 PM",
+                    "endTime": "2:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Zhang",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428145",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Transport Phenomena II: Mass Transfer",
+            "courseTag": "E44 EECE 302",
+            "units": "3.0",
+            "description": "Engineering principles involved in the exchange of heat and matter in chemical processes. Laws governing the flow of liquids and gases in laboratory and plant equipment. Prerequisite: EECE 301",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "8:30 AM",
+                    "endTime": "9:50 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Wang, Jian",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=467812",
+                    "finalExam": {
+                        "type": "Dec 11 2020 1:00PM - 3:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Materials Science",
+            "courseTag": "E44 EECE 305",
+            "units": "3.0",
+            "description": "Introduces the chemistry and physics of engineering materials. Emphasis on atomic and molecular interpretation of physical and chemical properties, the relationships between physical and chemical properties, and performance of an engineering material. Prerequisite: Math 217, Chem 111A or Chem 105, or permission of instructor.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday",
+                        "Friday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "1:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Bai",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=461358",
+                    "finalExam": {
+                        "type": "Dec 16 2020 1:00PM - 3:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Environmental Engineering Fate and Transport",
+            "courseTag": "E44 EECE 309",
+            "units": "3.0",
+            "description": "The objective of this course is to introduce students to the fundamental processes that control contaminant fate and transport in the natural and built environment. The course will highlight mass transport and transformation in surface water, soil and groundwater, and atmosphere. Students will be introduced to environmental transport modeling software to solve applied problems. Prerequisites: EECE 210, EECE 301, or permission of instructor",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "5:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Solanki",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=469981",
+                    "finalExam": {
+                        "type": "Dec 16 2020 6:00PM - 8:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Green Engineering",
+            "courseTag": "E44 EECE 311",
+            "units": "3.0",
+            "description": "Strategies and methods for waste minimization and pollutant emission reduction. Principles of green engineering. Environmental transport and fate modeling. Design of heat and mass exchange networks for energy and waste reduction. Prerequisite: Math 217 or permission of instructor.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "10:00 AM",
+                    "endTime": "11:20 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Turner",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=152801",
+                    "finalExam": {
+                        "type": "Dec 15 2020 6:00PM - 8:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Air Quality Engineering with Lab",
+            "courseTag": "E44 EECE 314",
+            "units": "4.0",
+            "description": "Introduction to air quality and pollution control. Pollutant emissions, atmospheric chemistry, and fate. Air pollution meteorology and atmospheric dispersion. Application of chemistry, thermodynamics, and fluid mechanics in the selection and design of air pollution control equipment. Labs to measure air quality and demonstrate control principles. Prerequisite: EECE 205 or EECE 201 and EECE 203, or permission of instructor ",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "2:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Solanki",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=469981",
+                    "finalExam": {
+                        "type": "Dec 16 2020 1:00PM - 3:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "A",
+                    "days": [
+                        "Friday"
+                    ],
+                    "startTime": "2:00 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Brauer Hall / 3011 ",
+                    "locationRef": "https://maps.google.com/maps?q=Brauer%20Hall,+Washington+University+in+Saint+Louis%4038.648965,-90.302264&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Solanki",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=469981",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Chemical Process Dynamics and Control",
+            "courseTag": "E44 EECE 401",
+            "units": "3.0",
+            "description": "A state-of-the-art industrial virtual plant is used for the development of dynamic simulations, selection of instrumentation, statistical analysis of variability, and implementation of process control to improve process operation and efficiency. Prerequisite: EECE 301, EECE 304, or permission of instructor",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday",
+                        "Friday"
+                    ],
+                    "startTime": "9:00 AM",
+                    "endTime": "9:50 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Tang",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=404571",
+                    "finalExam": {
+                        "type": "Dec 11 2020 8:00AM - 10:00AM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "A",
+                    "days": [
+                        "Friday"
+                    ],
+                    "startTime": "8:00 AM",
+                    "endTime": "8:50 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Tang",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=404571",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Chemical Reaction Engineering",
+            "courseTag": "E44 EECE 403",
+            "units": "3.0",
+            "description": "Introduction to chemical reaction engineering principles and applications in process and product development. Evaluation of reaction rates from mechanisms and experimental data, quantification of pertinent transport effects and application to reactor and product design. Corequisite: EECE 302 or 307, Prerequisite: EECE 204, or permission of instructor",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "11:30 AM",
+                    "endTime": "12:50PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Silbaugh",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=462947",
+                    "finalExam": {
+                        "type": "Dec 14 2020 1:00PM - 3:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "A",
+                    "days": [
+                        "Friday"
+                    ],
+                    "startTime": "10:00 AM",
+                    "endTime": "11:20 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Silbaugh",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=462947",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "B",
+                    "days": [
+                        "Friday"
+                    ],
+                    "startTime": "12:00 PM",
+                    "endTime": "12:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Silbaugh",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=462947",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Unit Operations Laboratory",
+            "courseTag": "E44 EECE 405",
+            "units": "4.0",
+            "description": "Laboratory projects focused on the application of chemical engineering principles (transport, thermodynamics, separations, etc.). Student teams design multi-week experiments utilizing unit operations equipment to solve realistic engineering problems. Includes analysis of safety and instrumentation. One laboratory period each week with supplemental lecture sessions. Emphasis on independent learning, teamwork, and technical communication skills. Prerequisites: EECE 301, EECE 304, ESE 326; Corequisite: EECE 307 or EECE 302, EECE 403, or permission of instructor",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Wednesday"
+                    ],
+                    "startTime": "12:00 PM",
+                    "endTime": "12:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Foston",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428035",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "A",
+                    "days": [
+                        "Monday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "4:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Brauer Hall / 007 ",
+                    "locationRef": "https://maps.google.com/maps?q=Brauer%20Hall,+Washington+University+in+Saint+Louis%4038.648965,-90.302264&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Foston",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428035",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "B",
+                    "days": [
+                        "Tuesday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "4:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Brauer Hall / 007 ",
+                    "locationRef": "https://maps.google.com/maps?q=Brauer%20Hall,+Washington+University+in+Saint+Louis%4038.648965,-90.302264&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Foston",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428035",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "C",
+                    "days": [
+                        "Wednesday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "4:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Brauer Hall / 007 ",
+                    "locationRef": "https://maps.google.com/maps?q=Brauer%20Hall,+Washington+University+in+Saint+Louis%4038.648965,-90.302264&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Foston",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428035",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "D",
+                    "days": [
+                        "Thursday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "4:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Brauer Hall / 007 ",
+                    "locationRef": "https://maps.google.com/maps?q=Brauer%20Hall,+Washington+University+in+Saint+Louis%4038.648965,-90.302264&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Foston",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428035",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "F",
+                    "days": [
+                        "Monday"
+                    ],
+                    "startTime": "5:00 PM",
+                    "endTime": "9:00 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Brauer Hall / 007 ",
+                    "locationRef": "https://maps.google.com/maps?q=Brauer%20Hall,+Washington+University+in+Saint+Louis%4038.648965,-90.302264&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Foston",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428035",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "G",
+                    "days": [
+                        "Tuesday"
+                    ],
+                    "startTime": "5:00 PM",
+                    "endTime": "9:00 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Brauer Hall / 007 ",
+                    "locationRef": "https://maps.google.com/maps?q=Brauer%20Hall,+Washington+University+in+Saint+Louis%4038.648965,-90.302264&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Foston",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428035",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Environmental Biotechnology",
+            "courseTag": "E44 EECE 407",
+            "units": "3.0",
+            "description": "This class aims to provide students a background in current environmental biotechnology and stimulate ideas about future potential new technologies. Students will gain qualitative quantitative skills about bioreactor designs in environmental applications (e.g. activated sludge, anaerobic digester, and membrane bioreactors). Special focus will be placed on the application of mathematical models currently widely used in wastewater engineering, i.e. International Water Association models. Hands-on experience with biological water treatment process modelling will be provided. Finally, students will be encouraged to explore links between environmental biotechnologies and a \"one health\" approach to public health. Prerequisites: Biol 2960 or EECE 306, ESE 326, EECE 204, EECE 210, or permission of instructor",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "5:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Ling",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=469945",
+                    "finalExam": {
+                        "type": "Dec 11 2020 6:00PM - 8:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "International Experience in EECE",
+            "courseTag": "E44 EECE 411",
+            "units": "3.0",
+            "description": "This course will provide undergraduate students with an international experience related to energy, environmental and/or chemical engineering. The country visited will vary from year to year with one or more EECE faculty members developing the program in collaboration with McDonnell Global Energy and Environment Partnership (MAGEEP) universities. Example activities include conducting field or laboratory research, attending short courses taught by MAGEEP university faculty members, and visiting attractions relevant to the course focus (e.g., industrial facilities). Students will also gain an understanding of the local culture and history of the country visited. Course content will include a seminar series in the spring semester prior to the international experience, a two-to-three week visit to the location of study, and a follow-up student project and presentations during the fall semester which draws upon the experience. Students will enroll in EECE 411 for the fall semester following the trip. (Prior to FL2015, this course was numbered: E33 401.)",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Ehrhard",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=414605",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Sustainability Exchange: Community and University Practicums",
+            "courseTag": "E44 EECE 412",
+            "units": "3.0",
+            "description": "The Sustainability Exchange engages interdisciplinary teams of students to tackle real-world energy, environmental, and sustainability problems through an experiential form of education. Students will participate in projects with clients and partners on- or off-campus, developed with and guided by faculty advisors drawn from across the University, ultimately delivering an applicable end-product that explores \"wicked\" problems requiring innovative methods and solutions. Past projects have included investigating soil impacts of de-icing practices on campus, collecting data on inequitable trash collection in neighborhoods, working with St. Louis City's building division to make buildings more energy efficient, and developing an understanding of how buildings impact birds on campus. Fall 2020 projects may include previously mentioned projects, and may also include helping a municipality develop a sustainability plan, working on sustainable investing practices, mitigating plastic pollution in the Mississippi, and developing composting toilets. The team-based project will be complemented by a seminar that will explore problem solving strategies and methodologies drawn from a wide range of creative practices, including design, engineering, and science, as well as contemporary topics in energy, environment, and sustainability. Students will draw on these topics to influence their projects. The course is designed primarily for undergraduates, with preference given to seniors.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "",
+                    "endDate": "",
+                    "location": "January Hall / 110 ",
+                    "locationRef": "https://maps.google.com/maps?q=January%20Hall,+Washington+University+in+Saint+Louis%4038.647736,-90.306271&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Langlois",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=221954",
+                    "finalExam": {
+                        "type": "Auto Assign Exam Code",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Industrial Process Safety",
+            "courseTag": "E44 EECE 416",
+            "units": "3.0",
+            "description": "Analysis and management of fire and explosion hazards. Control of human exposure to toxic materials. Codes, standards, and regulations. Transportation and disposal of noxious substances. Analysis of drift from clouds, flares, and stacks. Venting of pressure vessels. Hazard evaluation and safety review of processes. Emergency plans for accidents and disasters. Prerequisites: EECE 204 and EECE 302, or permission of instructor.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "10:00 AM",
+                    "endTime": "11:20 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Urbauer / 214 ",
+                    "locationRef": "https://maps.google.com/maps?q=Urbauer,+Washington+University+in+Saint+Louis%4038.649349,-90.306153&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Reardon, P.E.",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=486687",
+                    "finalExam": {
+                        "type": "Dec 14 2020 10:30AM - 12:30PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Transport Phenomena in EECE",
+            "courseTag": "E44 EECE 501",
+            "units": "3.0",
+            "description": "The aim of the course is for students to develop skills in applying principles of momentum, heat and mass transport in an unified manner to problems encountered in the areas of energy, environmental and chemical processes. A systems approach will be followed so that the general principles can be grasped and the skills to develop mathematical models of seemingly different processes will be emphasized. This provides the students with a general tool which they can apply later in their chosen field of research. (Prior to FL2015, this course was numbered: E33 501.) ",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "2:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Ramachandran",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=277340",
+                    "finalExam": {
+                        "type": "Dec 16 2020 1:00PM - 3:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Advanced Thermodynamics in EECE",
+            "courseTag": "E44 EECE 502",
+            "units": "3.0",
+            "description": "The objective of this course is to understand classical thermodynamics at a deeper level then is reached during typical undergraduate work. Emphasis will be placed on solving problems relevant to chemical engineering materials science. Prerequisite: E44 203 or equivalent.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday",
+                        "Friday"
+                    ],
+                    "startTime": "10:00 AM",
+                    "endTime": "10:50 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Thimsen",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=387071",
+                    "finalExam": {
+                        "type": "Dec 14 2020 10:30AM - 12:30PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Mathematical Methods in EECE",
+            "courseTag": "E44 EECE 503",
+            "units": "3.0",
+            "description": "The course will introduce students to mathematical principles essential for graduate study in any engineering discipline. Applied mathematical concepts will be demonstrated by applications to various areas in energy, environmental, biomedical, chemical, mechanical, aerospace, electrical and civil engineering. ",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "5:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Tomazi",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=472157",
+                    "finalExam": {
+                        "type": "Dec 16 2020 6:00PM - 8:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Aerosol Science and Technology",
+            "courseTag": "E44 EECE 504",
+            "units": "3.0",
+            "description": "Fundamental properties of particulate systems - physics of aerosols, size distributions, mechanics and transport of particles: diffusion, inertia, external force fields. Visibility and light scattering. Aerosol dynamics - coagulation, nucleation, condensation. Applications to engineered systems: Nanoparticle synthesis, atmospheric aerosols, combustion aerosols, pharmaceutical aerosols. Prerequisites: EECE 301, ESE 318 and 319. ",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "10:00 AM",
+                    "endTime": "11:20 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Biswas",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=358550",
+                    "finalExam": {
+                        "type": "Dec 15 2020 6:00PM - 8:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Aquatic Chemistry",
+            "courseTag": "E44 EECE 505",
+            "units": "3.0",
+            "description": "Aquatic chemistry governs aspects of the biogeochemical cycling of trace metals and nutrients, contaminant fate and transport, and the performance of water and wastewater treatment processes. This course examines chemical reactions relevant to natural and engineered aquatic systems. A quantitative approach emphasizes the solution of chemical equilibrium and kinetics problems. Topics covered include chemical equilibrium and kinetics, acid-base equilibria and alkalinity, dissolution and precipitation of solids, complexation of metals, oxidation-reduction processes, and reactions on solid surfaces. A primary objective of the course is to be able to formulate and solve chemical equilibrium problems for complex environmental systems. In addition to solving problems manually to develop chemical intuition regarding aquatic systems, software applications for solving chemical equilibrium problems are also introduced. Prerequisites: senior or graduate level standing, or permission of instructor ",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Jun",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=400501",
+                    "finalExam": {
+                        "type": "See instructor",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Research Rotation",
+            "courseTag": "E44 EECE 508",
+            "units": "0.0",
+            "description": "First year doctoral students in EECE should undertake research rotation as a requirement prior to choosing a permanent research advisor. The rotation will require the student to work under the guidance of a faculty member. ",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Foston",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428035",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Advanced Topics in Aerosol Science & Engineering",
+            "courseTag": "E44 EECE 510",
+            "units": "3.0",
+            "description": "This course will be focused on discussion of advanced topics in aerosol science and engineering and its applications in a variety of fields - Materials Science, Chemical Engineering, Mechanical Engineering, and Environmental Engineering. Prerequisite: EECE 504. ",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "2:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Chakrabarty",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=440800",
+                    "finalExam": {
+                        "type": "Dec 15 2020 1:00PM - 3:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Combustion Phenomena",
+            "courseTag": "E44 EECE 512",
+            "units": "3.0",
+            "description": "Introduction to fundamental aspects of combustion phenomena, including relevant thermochemistry, fluid mechanics and transport process, and the coupling between them. Emphasis is on elucidation of the physico-chemical processes, problem formulation and analytic techniques. Topics covered include nonpremixed and premixed flames, deflagrations and detonations, particle combustion, flame extinction, flame synthesis, pollutant formation and methods of remediation. Contemporary topics associated with combustion are discussed throughout. Prerequisites: Graduate standing or permission of instructor. ",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Axelbaum",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=276790",
+                    "finalExam": {
+                        "type": "Dec 14 2020 3:30PM - 5:30PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Environmental Organic Chemistry",
+            "courseTag": "E44 EECE 531",
+            "units": "3.0",
+            "description": "Fundamental, physical-chemical examination of organic molecules (focused on anthropogenic pollutants) in aquatic (environmental) systems. Students learn to calculate and predict chemical properties that are influencing the partitioning of organic chemicals within air, water, sediments and biological systems. This knowledge will be based on understanding intermolecular interactions and thermodynamic principles. Mechanisms of important thermochemical, hydrolytic, redox, and biochemical transformation reactions are also investigated, leading to the development of techniques (such as structure-reactivity relationships) for assessing environmental fate or human exposure potential. Prerequisites: EECE 210 or EECE 205 (or EECE 201 and EECE 203); Chem 261, or permission of instructor",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "5:30 PM",
+                    "endTime": "7:00 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Parker",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=462838",
+                    "finalExam": {
+                        "type": "Dec 14 2020 6:00PM - 8:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Environmental Resource Recovery",
+            "courseTag": "E44 EECE 537",
+            "units": "3.0",
+            "description": "This course will focus on key concepts of resource recovery from wastes. Topics include energy, water, nutrient, and value-added compounds. The course will discuss technological advancements, environmental impacts, and techno-economic assessment of environmental resource recovery. The cutting-edge recovery technologies in full-scale applications or laboratory studies will be introduced. Students will be trained for critical thinking and review of literature information, practice technical analysis and writing, and conduct a concept design of recovery systems using the data from local wastewater treatment facilities. The course is valuable as a prerequisite to more advanced research in environmental engineering, as a technical education to stimulate graduate students' interest in environmental sustainability, and as an introduction to environmental constraints that are increasingly important to other engineering disciplines. Prerequisites: Senior or graduate level standing with background in environmental engineering, or permission of instructor.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "8:30 AM",
+                    "endTime": "9:50 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "He",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=374430",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Metabolic Engineering and Synthetic Biology",
+            "courseTag": "E44 EECE 551",
+            "units": "3.0",
+            "description": "Synthetic Biology is a transformative view of biology from \"observation approach\" to \"synthesis approach.\" It is new \"engineering\" discipline and aims to make the engineering of new biological function predictable, safe, and quick. It will pave a wide range of applications to transform our views on production of sustainable energy and renewable chemicals, environmental problems, and human disease treatments. The field intersects with Metabolic Engineering in areas such as the design of novel pathways and genetic circuits for product generation and toxic chemical degradation. In this course, the field and its basis are introduced. First, relevant topics in biology, chemistry, physics, and engineering are covered. Second, students will participate in brain-storming and discussion on new biology-based systems. Last, students will design and present new synthetic biology systems to solve real-world problems. No prerequisite. Both undergrad and graduate students can take this course. ",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "2:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Moon",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428052",
+                    "finalExam": {
+                        "type": "Dec 15 2020 1:00PM - 3:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Masters Research",
+            "courseTag": "E44 EECE 599",
+            "units": "9.0",
+            "description": "",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "[TBA]",
+                    "instructorLink": "",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "03",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Axelbaum",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=276790",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "04",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Biswas",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=358550",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "05",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Ehrhard",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=414605",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "06",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Dudukovic",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=275471",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "07",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Giammar",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=370502",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "08",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Parker",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=462838",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "10",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Pakrasi",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=274592",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "11",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Ramachandran",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=277340",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "12",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Jun",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=400501",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "14",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Turner",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=152801",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "15",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "(None) / ",
+                    "locationRef": "",
+                    "instructor": "Sadtler",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=440273",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "16",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Ravi",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=275153",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "17",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Bai",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=461358",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "18",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Nissing",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=9727",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "19",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Lipeles",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=274723",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "20",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Brennan",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=447328",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "22",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Tang",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=404571",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "23",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "(None) / ",
+                    "locationRef": "",
+                    "instructor": "Kumfer",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=323809",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "24",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "(None) / ",
+                    "locationRef": "",
+                    "instructor": "Ramani",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=454083",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "26",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Fortner",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=416758",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "27",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Williams",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=416757",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "28",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Silbaugh",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=462947",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "29",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Foston",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428035",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "30",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Moon",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428052",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "31",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Zhang, Fuzhong",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428145",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "32",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Chakrabarty",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=440800",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "33",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Thimsen",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=387071",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "34",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Michels",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=365349",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "35",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Ling",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=469945",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "36",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "(None) / ",
+                    "locationRef": "",
+                    "instructor": "[TBA]",
+                    "instructorLink": "",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Doctoral Research",
+            "courseTag": "E44 EECE 600",
+            "units": "9.0",
+            "description": "",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Ling",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=469945",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "02",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Wang",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=467812",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "03",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Axelbaum",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=276790",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "04",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Biswas",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=358550",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "05",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Ehrhard",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=414605",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "06",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Dudukovic",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=275471",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "07",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Giammar",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=370502",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "08",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Parker",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=462838",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "09",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Martin",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=472262",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "10",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Pakrasi",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=274592",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "11",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Ramachandran",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=277340",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "12",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Jun",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=400501",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "14",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Turner",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=152801",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "15",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Sadtler",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=440273",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "16",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Ravi",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=275153",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "17",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Bai",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=461358",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "18",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Nissing",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=9727",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "19",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Lipeles",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=274723",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "20",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Brennan",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=447328",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "22",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Tang",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=404571",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "23",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "(None) / ",
+                    "locationRef": "",
+                    "instructor": "Kumfer",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=323809",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "24",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "(None) / ",
+                    "locationRef": "",
+                    "instructor": "Ramani",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=454083",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "25",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "(None) / ",
+                    "locationRef": "",
+                    "instructor": "Henderson",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=79566",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "26",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Fortner",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=416758",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "27",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Williams",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=416757",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "28",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Silbaugh",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=462947",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "29",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Foston",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428035",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "30",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Moon",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428052",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "31",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Zhang, Fuzhong",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428145",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "32",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Chakrabarty",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=440800",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "33",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Thimsen",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=387071",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "34",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Michels",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=365349",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "35",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "(None) / ",
+                    "locationRef": "",
+                    "instructor": "Bose",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=441046",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "36",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "(None) / ",
+                    "locationRef": "",
+                    "instructor": "[TBA]",
+                    "instructorLink": "",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        }
+    ]
+}
