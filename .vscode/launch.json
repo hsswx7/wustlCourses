@@ -28,6 +28,14 @@
             "program": "${file}",
             "console": "integratedTerminal",
             "args": ["Bio.html"]
+        },
+        {
+            "name": "WUCRSL.html",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": ["WUCRSL.html"]
         }
 
     ]
