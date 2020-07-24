@@ -1,0 +1,840 @@
+{
+    "departmentName": "GENERAL ENGINEERING",
+    "departmentCode": "E60",
+    "courses": [
+        {
+            "courseName": "Cooperative Education Experience",
+            "courseTag": "E60 Engr 100A",
+            "units": "0.0",
+            "description": "Required of all students who are currently working and who are participating in the Engineering Cooperative Education Program. No credit. Audit only.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Kruessel",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=379475",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Business + Computer Science Joint Degree Seminar",
+            "courseTag": "E60 Engr 160",
+            "units": "1.0",
+            "description": "This course is designed to introduce admitted BU+CS Joint Degree students to the degree requirements as well as the career and academic opportunities available. You will hear from Computer Science faculty, Business faculty, the Weston Career Center, as well as alums in the field. After successfully completing the course students will have a better understanding of philosophy and learning outcomes of the program, in addition to the available resources and faculty expectations.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday"
+                    ],
+                    "startTime": "3:00 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Laue",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=393203",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Cooperative Education Experience",
+            "courseTag": "E60 Engr 200A",
+            "units": "0.0",
+            "description": "Required of all students who are currently working and who are participating in the Engineering Cooperative Education Program. No credit. Audit only.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Kruessel",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=379475",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Cooperative Education Experience",
+            "courseTag": "E60 Engr 300A",
+            "units": "0.0",
+            "description": "Required of all students who are currently working and who are participating in the Engineering Cooperative Education Program. No credit. Audit only.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Kruessel",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=379475",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Technical Writing",
+            "courseTag": "E60 Engr 310",
+            "units": "3.0",
+            "description": "Persistent concerns of grammar and style. Analysis and discussion of clear sentence and paragraph structure and of organization in complete technical documents. Guidelines for effective layout and graphics. Examples and exercises stressing audience analysis, graphic aids, editing, and readability. Videotaped work in oral presentation of technical projects. Writing assignments include descriptions of mechanisms, process instructions, basic proposals, letters and memos, and a long formal report. Prerequisites: Satisfaction of the English composition proficiency requirement of the School and junior standing.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "10:00 AM",
+                    "endTime": "11:20 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Urbauer / 210 ",
+                    "locationRef": "https://maps.google.com/maps?q=Urbauer,+Washington+University+in+Saint+Louis%4038.649349,-90.306153&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Dahlheimer",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=323753",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "02",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "11:30 AM",
+                    "endTime": "12:50PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Urbauer / 210 ",
+                    "locationRef": "https://maps.google.com/maps?q=Urbauer,+Washington+University+in+Saint+Louis%4038.649349,-90.306153&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Dahlheimer",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=323753",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "03",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "10:00 AM",
+                    "endTime": "11:20 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Creighton",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=18611",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "04",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "11:30 AM",
+                    "endTime": "12:50PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Creighton",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=18611",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "05",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "11:30 AM",
+                    "endTime": "12:50PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Brumbaugh Walter",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=123675",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "06",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "2:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Brumbaugh Walter",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=123675",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "07",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "2:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Mittanck",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428499",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "08",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "10:00 AM",
+                    "endTime": "11:20 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Mittanck",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428499",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "10",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "2:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Matteucci",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=364312",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "11",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Schwelle",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=359502",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "12",
+                    "days": [
+                        "Tuesday"
+                    ],
+                    "startTime": "6:00 PM",
+                    "endTime": "8:30 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Hooker",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=189545",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "13",
+                    "days": [
+                        "Wednesday"
+                    ],
+                    "startTime": "6:00 PM",
+                    "endTime": "8:30 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Essner",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=470090",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "14",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Meyer",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=67920",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "15",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "11:30 AM",
+                    "endTime": "12:50PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Hamilton",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=171050",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Amplifying Cyberdiversity: Real Humans in Virtual Spaces",
+            "courseTag": "E60 Engr 330",
+            "units": "3.0",
+            "description": "Explore human identity in cyberspace, from the Internet to video conferencing and social media. What constitutes \"identity\"? How have our historical social systems already become the foundation of our online realities? How does cyber-identity affect our biological lives-and how do our lives affect global cyber decision-making? At the end of this class, students will be skilled at analyzing the invisible social structures beneath the logarithms amplified in our real, biological lives. They will be able to identify the paradoxical ways that old biases in cyberspace expose themselves, revolutionizing our most basic institutions: family, work, education, and government. This class will meet in person during the first half of the semester, and then switch to online during the second half. This arrangement gives students the opportunity to observe within themselves the concepts we are covering in the course, which include intersecting identity markers such as race, age, class, sex, gender, sexuality, nationality, and ethnicity. In this novel course, Dr. Lynnea Brumbaugh merges her decades of teaching both diversity studies and technical, managerial communication to produce this novel course exploring the critical human implications of the biases built into our already-powerful computer logarithms. This course will count as a CSE elective. ",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday"
+                    ],
+                    "startTime": "5:30 PM",
+                    "endTime": "7:30 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Brumbaugh Walter",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=123675",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Cooperative Education Experience",
+            "courseTag": "E60 Engr 400A",
+            "units": "0.0",
+            "description": "Required of all students who are currently working and who are participating in the Engineering Cooperative Education Program. No credit. Audit only.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Kruessel",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=379475",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Engineering Ethics and Sustainability",
+            "courseTag": "E60 Engr 4501",
+            "units": "1.0",
+            "description": "This course introduces tools and skills required to understand, evaluate, and resolve ethical problems in engineering practice. By studying both historic and hypothetical engineering cases, as well as theory, the student will more fully appreciate a professional's responsibilities in applying emerging technologies to modern challenges. Special attention will be given to sustainability in response to global social issues. Students will have opportunities to demonstrate mature decision making skills and to appreciate the importance of lifelong learning about both professional practice and ethical issues.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday"
+                    ],
+                    "startTime": "3:00 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Matteucci",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=364312",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "02",
+                    "days": [
+                        "Tuesday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "4:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Matteucci",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=364312",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "03",
+                    "days": [
+                        "Monday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "4:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Krone",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=400153",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "04",
+                    "days": [
+                        "Monday"
+                    ],
+                    "startTime": "5:00 PM",
+                    "endTime": "5:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Urbauer / 210 ",
+                    "locationRef": "https://maps.google.com/maps?q=Urbauer,+Washington+University+in+Saint+Louis%4038.649349,-90.306153&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Krone",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=400153",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Engineering Leadership and Team Building",
+            "courseTag": "E60 Engr 4502",
+            "units": "1.0",
+            "description": "Forms of leadership and qualities of effective leaders evaluated through case studies, with opportunities for self-analysis. Teamwork and effective team-building skills in engineering environments, with a focus on multidisciplinary and complex engineering projects.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "5:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "11/7/2020",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Brumbaugh Walter",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=123675",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "02",
+                    "days": [
+                        "Tuesday"
+                    ],
+                    "startTime": "3:00 PM",
+                    "endTime": "4:50 PM",
+                    "startDate": "9/15/2020",
+                    "endDate": "11/8/2020",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Brumbaugh Walter",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=123675",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "03",
+                    "days": [
+                        "Monday"
+                    ],
+                    "startTime": "3:00 PM",
+                    "endTime": "4:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "10/26/2020",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Dahlheimer",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=323753",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "04",
+                    "days": [
+                        "Wednesday"
+                    ],
+                    "startTime": "3:00 PM",
+                    "endTime": "4:50 PM",
+                    "startDate": "9/16/2020",
+                    "endDate": "10/28/2020",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Dahlheimer",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=323753",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Conflict Management and Negotiation",
+            "courseTag": "E60 Engr 4503",
+            "units": "1.0",
+            "description": "Learn core competencies that lead to effective conflict management. Discern underlying sources of conflict and approaches to work through it. Develop a plan to handle confrontation as well as strategies that will minimize future conflict. Resolving conflict helps facilitate achieving personal, team, and organizational goals, leading to higher performance levels.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday"
+                    ],
+                    "startTime": "12:00 PM",
+                    "endTime": "12:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Mittanck",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428499",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "02",
+                    "days": [
+                        "Wednesday"
+                    ],
+                    "startTime": "12:00 PM",
+                    "endTime": "12:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Mittanck",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428499",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "03",
+                    "days": [
+                        "Tuesday"
+                    ],
+                    "startTime": "3:00 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Krone",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=400153",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "04",
+                    "days": [
+                        "Tuesday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "4:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Krone",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=400153",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Publication Writing",
+            "courseTag": "E60 Engr 4505",
+            "units": "3.0",
+            "description": "Academic writing in science, mathematics, and engineering fields is a requirement for professional advancement. This course is designed to help students gain the skills needed to write academic peer reviewed research publications. This course will cover every stage of a publication from abstract to a conference level presentation. Students will practice critiquing to understand published papers with a focus on data presentation, analysis and explanation. Enrolled students will have the option to write about their own research projects.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Krone",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=400153",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Cooperative Education Experience",
+            "courseTag": "E60 Engr 500A",
+            "units": "0.0",
+            "description": "Required of all students who are currently working and who are participating in the Engineering Cooperative Education Program. No credit. Audit only.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Kruessel",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=379475",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Communication Tools for Academic & Professional Success in Engineering",
+            "courseTag": "E60 Engr 505",
+            "units": "2.0",
+            "description": "This is a course designed for international students. The course will provide students with tools to assist with language proficiency, career guidance and cultural learning experiences.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Schwelle",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=359502",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Publication Writing",
+            "courseTag": "E60 Engr 5505",
+            "units": "3.0",
+            "description": "This course focuses on developing memorable and powerful presentations about scientific or technical topics for non-specialists. Technical presentations are a complex blend of information, conversation, and performance, requiring a nuanced set of cognition, emotional intelligence, and design skills. This course begins with informal improvisational exercises, both to practice social cohesion and to become aware of and resolve presentation anxiety. Graduate students learn effective ways to work with students on problem-solving techniques, to create assertion-evidence slides (rather than traditional bullet points) with an emphasis on the design principles of proximity, alignment, contract, and repetition. This interactive format, complete with personal coaching, will strengthen your confidence, as well as polish your professional presentation skills.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Krone",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=400153",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        }
+    ]
+}
