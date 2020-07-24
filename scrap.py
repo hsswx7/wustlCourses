@@ -251,7 +251,7 @@ def parseFile(file):
 
 
     jsonStr = department.toJSON()
-    print(jsonStr)
+    #print(jsonStr)
 
     fileName = department.departmentName + "-" + department.departmentCode + ".json"
     writeJson = open(fileName, "w")
