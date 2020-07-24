@@ -15,4 +15,4 @@ pythonString to parse department classes at https://courses.wustl.edu
 
 ## How to test
 
-- Use vscode with python installation, `launch.json` is provided for debugging
+- Use vscode with python extension, `launch.json` is provided for debugging
