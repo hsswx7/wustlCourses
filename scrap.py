@@ -81,8 +81,12 @@ class Class:
             str = cleanString(str)
             self.location = str
         else:
-            self.location = cleanString(str.contents[0])
-            self.locationRef = cleanString(str.attrs['href'])
+            if hasattr(str, 'contents'):
+                self.location = cleanString(str.contents[0])
+                self.locationRef = cleanString(str.attrs['href'])
+            else:
+                self.location = str
+
     def setProfessor(self, str):
         if str == "[TBA]":
             self.instructor = cleanString(str)
