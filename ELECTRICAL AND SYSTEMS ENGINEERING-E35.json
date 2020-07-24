@@ -1,0 +1,2728 @@
+{
+    "departmentName": "ELECTRICAL AND SYSTEMS ENGINEERING",
+    "departmentCode": "E35",
+    "courses": [
+        {
+            "courseName": "Introduction to Electrical and Systems Engineering",
+            "courseTag": "E35 ESE 105",
+            "units": "3.0",
+            "description": "This course will offer students a rigorous introduction to fundamental mathematical underpinnings of ESE and their relationship to a number of contemporary application areas. Major emphasis will be placed on linear algebra and associated numerical methods, including the use of MATLAB. Topics covered will include vector spaces, linear transformations, matrix manipulations and eigenvalue decomposition. Students will learn how this mathematical theory is enacted in ESE through the completion of four case studies spanning application areas: (i) Dynamical Systems and Control, (ii) Imaging, (iii) Signal Processing, and (iv) Circuits.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "5:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Ching",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=432146",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "F",
+                    "days": [
+                        "Friday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "1:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Ching",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=432146",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Introduction to Electrical and Electronic Circuits",
+            "courseTag": "E35 ESE 230",
+            "units": "4.0",
+            "description": "Electrical energy, current, voltage, and circuit elements. Resistors, Ohm's Law, power and energy, magnetic fields and dc motors. Circuit analysis and Kirchhoff's voltage and current laws. Thevenin and Norton transformations and the superposition theorem. Measuring current, voltage, and power using ammeters and voltmeters. Energy and maximum electrical power transfer. Computer simulations of circuits. Reactive circuits, inductors, capacitors, mutual inductance, electrical transformers, energy storage, and energy conservation. RL, RC and RLC circuit transient responses, biological cell action potentials due to Na and K ions. AC circuits, complex impedance, RMS current and voltage. Electrical signal amplifiers and basic operational amplifier circuits. Inverting, non-inverting, and difference amplifiers. Voltage gain, current gain, input impedance, and output impedance. Weekly laboratory exercises related to the lectures are an essential part of the course. Prerequisites: Phys 118A. Corequisite: Math 217.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "2:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Nussinov",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=399172",
+                    "finalExam": {
+                        "type": "Exam last day of class",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "A",
+                    "days": [
+                        "Tuesday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Urbauer / 208 ",
+                    "locationRef": "https://maps.google.com/maps?q=Urbauer,+Washington+University+in+Saint+Louis%4038.649349,-90.306153&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Nussinov",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=399172",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "C",
+                    "days": [
+                        "Wednesday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Urbauer / 208 ",
+                    "locationRef": "https://maps.google.com/maps?q=Urbauer,+Washington+University+in+Saint+Louis%4038.649349,-90.306153&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Nussinov",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=399172",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "D",
+                    "days": [
+                        "Wednesday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "5:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Urbauer / 208 ",
+                    "locationRef": "https://maps.google.com/maps?q=Urbauer,+Washington+University+in+Saint+Louis%4038.649349,-90.306153&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Nussinov",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=399172",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "E",
+                    "days": [
+                        "Thursday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Urbauer / 208 ",
+                    "locationRef": "https://maps.google.com/maps?q=Urbauer,+Washington+University+in+Saint+Louis%4038.649349,-90.306153&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Nussinov",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=399172",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "F",
+                    "days": [
+                        "Thursday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "5:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Urbauer / 208 ",
+                    "locationRef": "https://maps.google.com/maps?q=Urbauer,+Washington+University+in+Saint+Louis%4038.649349,-90.306153&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Nussinov",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=399172",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "H",
+                    "days": [
+                        "Wednesday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "2:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Urbauer / 208 ",
+                    "locationRef": "https://maps.google.com/maps?q=Urbauer,+Washington+University+in+Saint+Louis%4038.649349,-90.306153&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Nussinov",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=399172",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "I",
+                    "days": [
+                        "Tuesday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Whitaker / 135 ",
+                    "locationRef": "https://maps.google.com/maps?q=Whitaker,+Washington+University+in+Saint+Louis%4038.649162,-90.303238&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Widder",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=251858",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "J",
+                    "days": [
+                        "Friday"
+                    ],
+                    "startTime": "10:00 AM",
+                    "endTime": "10:50 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "[TBA]",
+                    "instructorLink": "",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "K",
+                    "days": [
+                        "Friday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "1:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "[TBA]",
+                    "instructorLink": "",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "L",
+                    "days": [
+                        "Friday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "4:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "[TBA]",
+                    "instructorLink": "",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Introduction to Digital Logic and Computer Design",
+            "courseTag": "E35 ESE 260",
+            "units": "3.0",
+            "description": "Introduction to design methods for digital logic and fundamentals of computer architecture. Students learn to use hardware description languages and computer-aided design tools (simulation, circuit synthesis) and apply them to the design of a variety of digital circuits. Coverage includes both combinational and sequential circuits, ranging in complexity from basic arithmetic circuits to a simple processor. Students learn about the underlying causes of circuit delays and timing issues in sequential circuits (setup and hold times, minimum clock period analysis, metastability). They also study how logic minimization is done, learn to make basic design trade-offs (complexity vs. performance), and how look ahead techniques can be used to speed circuit operation. Coverage also includes the operation of a programmable processor, common methods for enhancing processor performance and the design of memory systems. Prerequisites: CSE 131",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "2:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Richard",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=276632",
+                    "finalExam": {
+                        "type": "Dec 16 2020 1:00PM - 3:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Engineering Mathematics A",
+            "courseTag": "E35 ESE 318",
+            "units": "3.0",
+            "description": "Laplace transforms; matrix algebra; vector spaces; eigenvalues and eigenvectors; vector differential calculus and vector integral calculus in three dimensions. Prerequisites: Math 233 and Math 217 or their equivalents. ",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "11:30 AM",
+                    "endTime": "12:50PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Lopata Hall / 101 ",
+                    "locationRef": "https://maps.google.com/maps?q=Lopata%20Hall,+Washington+University+in+Saint+Louis%4038.649085,-90.306360&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Hoven",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=166384",
+                    "finalExam": {
+                        "type": "Dec 14 2020 1:00PM - 3:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "02",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "10:00 AM",
+                    "endTime": "11:20 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Hasting",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=115810",
+                    "finalExam": {
+                        "type": "Dec 15 2020 6:00PM - 8:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Engineering Mathematics B",
+            "courseTag": "E35 ESE 319",
+            "units": "3.0",
+            "description": "Power series and Frobenius series solutions of differential equations; Legendre's equation; Bessel's equation; Fourier series and Fourier transforms; Sturm-Liouville theory; solutions of partial differential equations; wave and heat equations. Prerequisites: Math 233 and Math 217 or their equivalents. ",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday",
+                        "Friday"
+                    ],
+                    "startTime": "9:00 AM",
+                    "endTime": "9:50 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Hasting",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=115810",
+                    "finalExam": {
+                        "type": "Dec 11 2020 8:00AM - 10:00AM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "02",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Hoven",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=166384",
+                    "finalExam": {
+                        "type": "Dec 16 2020 3:30PM - 5:30PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Probability and Statistics for Engineering",
+            "courseTag": "E35 ESE 326",
+            "units": "3.0",
+            "description": "Study of probability and statistics together with engineering applications. Probability and statistics: random variables, distribution functions, density functions, expectations, means, variances, combinatorial probability, geometric probability, normal random variables, joint distribution, independence, correlation, conditional probability, Bayes theorem, the law of large numbers, the central limit theorem. Applications: reliability, quality control, acceptance sampling, linear regression, design and analysis of experiments, estimation, hypothesis testing. Examples are taken from engineering applications. Prerequisites: Math 233 or equivalent.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "10:00 AM",
+                    "endTime": "11:20 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Zhang, J.",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=440679",
+                    "finalExam": {
+                        "type": "Dec 14 2020 10:30AM - 12:30PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "02",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "2:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Krone",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=400153",
+                    "finalExam": {
+                        "type": "Dec 15 2020 1:00PM - 3:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "A",
+                    "days": [
+                        "Friday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "3:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Krone",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=400153",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "B",
+                    "days": [
+                        "Friday"
+                    ],
+                    "startTime": "10:00 AM",
+                    "endTime": "10:50 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Zhang",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=440679",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Engineering Electromagnetics Principles",
+            "courseTag": "E35 ESE 330",
+            "units": "3.0",
+            "description": "Electromagnetic theory as applied to electrical engineering: vector calculus; electrostatics and magnetostatics; Maxwell's equations, including Poynting's theorem and boundary conditions; uniform plane-wave propagation; transmission lines, TEM modes, including treatment of general lossless lines, and pulse propagation; introduction to guided waves; introduction to radiation and scattering concepts. Prerequisites: Physics 118A and ESE 318 En Math A. Co-requisite: ESE 319 En Math B. ",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "2:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Dorothy Wang",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=484897",
+                    "finalExam": {
+                        "type": "Dec 14 2020 10:30AM - 12:30PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "A",
+                    "days": [
+                        "Friday"
+                    ],
+                    "startTime": "11:00 AM",
+                    "endTime": "11:50 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Dorothy Wang",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=484897",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Electronics Laboratory",
+            "courseTag": "E35 ESE 331",
+            "units": "3.0",
+            "description": "Laboratory exercises provide students with a combination of hands-on experience in working with a variety of real instruments and in summarizing measurement results in written reports that clearly communicate laboratory results. A sequence of lab experiments provide hands-on experience with grounding and shielding techniques, signal analysis, realistic operational amplifier (op amp) characterization, op amp based active filter design and characterization, measurement of pulses propagating on a transmission line with various terminations, experience with FM modulation using phase locked loops and microwave techniques based on the vector network analyzer (VNA). Students will gain experience working with: sampling oscilloscopes to make measurements in the time and frequency domains, signal generators, digital multimeter and frequency measurements, microwave VNA measurements of directional coupler and antenna scattering parameters, and in creating circuits and making connections on contemporary circuit boards. The course concludes with a hands-on project to design, demonstrate and document the design of an electronic component. Prerequisite: ESE 232; Corequisite: ESE 330",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday"
+                    ],
+                    "startTime": "10:00 AM",
+                    "endTime": "11:20 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Feher",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=451995",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "A",
+                    "days": [
+                        "Thursday"
+                    ],
+                    "startTime": "10:00 AM",
+                    "endTime": "11:50 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Urbauer / 115 ",
+                    "locationRef": "https://maps.google.com/maps?q=Urbauer,+Washington+University+in+Saint+Louis%4038.649349,-90.306153&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Feher",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=451995",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Signals and Systems",
+            "courseTag": "E35 ESE 351",
+            "units": "3.0",
+            "description": "Introduction to concepts and methodology of discrete- and continuous-time signals in relation to linear dynamic systems. Representation of signals and systems. Fourier, Laplace, and Z-transforms. Input-output description of linear systems: impulse response, convolution, transfer function. Time-domain and frequency-domain system analysis: transient and steady-state responses, stability, frequency spectra and frequency responses. Matlab-based case studies highlight the role of this material in key ESE areas of signal processing, control systems, and communication. Prerequisites: Physics 117A-118A, Math 217, CSE 131, Matlab, matrix addition and multiplication, and ESE 105 or ESE 230; Corequisite: ESE 318.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "11:30 AM",
+                    "endTime": "12:50PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Trobaugh",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=159135",
+                    "finalExam": {
+                        "type": "Dec 15 2020 10:30AM - 12:30PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "A",
+                    "days": [
+                        "Friday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "4:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Trobaugh",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=159135",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Computer Architecture",
+            "courseTag": "E35 ESE 362",
+            "units": "3.0",
+            "description": "This course explores the interaction and design philosophy of hardware and software for digital computer systems. Topics include: Processor architecture, Instruction Set Architecture, Assembly Language, memory hierarchy design, I/O considerations, and a comparison of computer architectures. Prerequisite: CSE 260M.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "11:30 AM",
+                    "endTime": "12:50PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Richard",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=276632",
+                    "finalExam": {
+                        "type": "Dec 14 2020 1:00PM - 3:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Operations Research",
+            "courseTag": "E35 ESE 403",
+            "units": "3.0",
+            "description": "Introduction to the mathematical aspects of various areas of operations research, with additional emphasis on problem formulation. This is a course of broad scope, emphasizing both the fundamental mathematical concepts involved, and also aspects of the translation of real-world problems to an appropriate mathematical model. Subjects to be covered include linear and integer programming, network problems, and dynamic programming. Prerequisites: CSE 131, Math 309, and ESE 326, or permission of instructor.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "5:30 PM",
+                    "endTime": "7:00 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "La Rosa",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=388614",
+                    "finalExam": {
+                        "type": "Dec 14 2020 6:00PM - 8:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "A",
+                    "days": [
+                        "Friday"
+                    ],
+                    "startTime": "11:00 AM",
+                    "endTime": "11:50 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "La Rosa",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=388614",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "B",
+                    "days": [
+                        "Friday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "4:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "La Rosa",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=388614",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Reliability and Quality Control",
+            "courseTag": "E35 ESE 405",
+            "units": "3.0",
+            "description": "An integrated analysis of reliability and quality control function in manufacturing. Statistical process control, acceptance sampling, process capability analysis, reliability prediction, design, testing, failure analysis and prevention, maintainability, availability, and safety are discussed and related. Qualitative and quantitative aspects of statistical quality control and reliability are introduced in the context of manufacturing. Prerequisite: ESE 326 or equivalent.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "2:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Lopata Hall / 101 ",
+                    "locationRef": "https://maps.google.com/maps?q=Lopata%20Hall,+Washington+University+in+Saint+Louis%4038.649085,-90.306360&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Min",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=275771",
+                    "finalExam": {
+                        "type": "Dec 16 2020 1:00PM - 3:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Optimization",
+            "courseTag": "E35 ESE 415",
+            "units": "3.0",
+            "description": "Optimization problems with and without constraints. The projection theorem. Convexity, separating hyperplane theorems; Lagrange multipliers, Kuhn-Tucker-type conditions, duality; computational procedures. Optimal control of linear dynamic systems; maximum principles. Use of optimization techniques in engineering design. Prerequisites: Math 309 and ESE 318 or permission of instructor.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "2:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Li",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=393953",
+                    "finalExam": {
+                        "type": "See department",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Special Topics in Optimization and Learning",
+            "courseTag": "E35 ESE 419",
+            "units": "3.0",
+            "description": "Machine learning is the scientific study of algorithms and statistical models that computer systems use to automatically extract patterns from large volumes of data to provide insight information for decision making. This pervasive field sits at the intersection of computer science, statistics, linear algebra and optimization. This course provides a broad introduction to machine learning and statistical pattern classification with emphasis on Electrical and Systems Engineering applications. Students will study theoretical foundations of learning and several important supervised and unsupervised machine learning methods including linear model of regression and classification, logistic regression, Bayesian learning methods, neural networks, nearest neighbor method, principal component analysis, support vector machines methods and clustering. The course will take the format of lectures and small chapter projects in areas such as imaging, signal processing and control. Python programming language will be used for demonstration and course projects. Pre-requisites: ESE326, Math 233, linear algebra and CSE 131 or equivalent",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "11:30 AM",
+                    "endTime": "12:50PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Zhang",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=440679",
+                    "finalExam": {
+                        "type": "Dec 14 2020 1:00PM - 3:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Financial Mathematics",
+            "courseTag": "E35 ESE 427",
+            "units": "3.0",
+            "description": "This course is a self-contained introduction to financial mathematics at the undergraduate level. Topics to be covered include pricing of the financial instruments such as options, forwards, futures and their derivatives along with basic hedging techniques and portfolio optimization strategies. The emphasis is put on using of discrete, mostly binary models. The general, continuous case including the concepts of Brownian motion, stochastic integral, and stochastic differential equations, is explained from intuitive and practical point of view. Among major results discussed are the Arbitrage Theorem and Black-Scholes differential equations and their solutions. Prerequisites: ESE 318 and ESE 326 or the consent of the instructor.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "2:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Lopata Hall / 101 ",
+                    "locationRef": "https://maps.google.com/maps?q=Lopata%20Hall,+Washington+University+in+Saint+Louis%4038.649085,-90.306360&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Kurenok",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=365520",
+                    "finalExam": {
+                        "type": "Dec 15 2020 1:00PM - 3:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Basic Principles of Quantum Optics and Quantum Information",
+            "courseTag": "E35 ESE 429",
+            "units": "3.0",
+            "description": "This course provides an accessible introduction to quantum optics and quantum engineering for undergraduate students. This course covers the following topics: Concept of photons, quantum mechanics for quantum optics, radiative transitions in atoms, lasers, photon statistics (photon counting, Sub-/Super-Poissionian photon statistics, bunching, anti-bunching, theory of photodetection, shot noise), entanglement, squeezed light, atom-photon interactions, cold atoms, atoms in cavities. The course will also provide an overview for quantum information processing: quantum computing, quantum cryptography, and teleportation. Prerequisite Course: Engineering Mathematics 318 or equivalent.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "2:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Shen",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=410923",
+                    "finalExam": {
+                        "type": "Dec 16 2020 1:00PM - 3:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Solid State Power Circuits and Applications",
+            "courseTag": "E35 ESE 434",
+            "units": "3.0",
+            "description": "Study of the strategies and applications power control using solid-state semiconductor devices. Survey of generic power electronic converters. Applications to power supplies, motor drives, and consumer electronics. Introduction to power diodes, thyristors, and MOSFETs. Prerequisites: ESE 232, 351.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "5:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Collins",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=219486",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Semiconductor Devices",
+            "courseTag": "E35 ESE 436",
+            "units": "3.0",
+            "description": "This course covers the fundamentals of semiconductor physics and operation principles of modern solid-state devices such as homo- or hetero-junction diodes, solar cells, inorganic/organic light-emitting diodes, bipolar junction transistors, and metal-oxide-semiconductor field-effect transistors. These devices form the basis for today's semiconductor and integrated circuit industry. In additional to device physics, semiconductor device fabrication processes, new materials, and novel device structures will also be briefly introduced. At the end of this course, students will be able to understand the characteristics, operation, limitations and challenges faced by state-of-the-art semiconductor devices. This course will be particularly useful for students who wish to develop careers in the semiconductor industry. Prerequisite: ESE 232",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "10:00 AM",
+                    "endTime": "11:20 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Wang",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=462498",
+                    "finalExam": {
+                        "type": "Dec 15 2020 6:00PM - 8:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Control Systems",
+            "courseTag": "E35 ESE 441",
+            "units": "3.0",
+            "description": "Introduction to the theory and practice of automatic control for dynamical systems. Dynamical systems as models for physical and observed phenomena. Mathematical representation of dynamical systems, such as state-space differential and difference equations, transfer functions, and block diagrams. Analysis of the time evolution of a system in response to control inputs, steady-state and transient responses, equilibrium points and their stability. Control via linear state feedback, and estimation using Luenberger observers. Relating the time response of a system to its frequency response, including Bode and Nyquist plots. Input-output stability and its relation to the stability of equilibrium points. Simple frequency-based controllers, such as PID and lead-lag compensators. Exercise involving the use of MATLAB/Simulink (or equivalent) to simulate and analyze systems. Prerequisites: CSE 131, and either ESE 351 or MEMS 4310.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Lopata Hall / 101 ",
+                    "locationRef": "https://maps.google.com/maps?q=Lopata%20Hall,+Washington+University+in+Saint+Louis%4038.649085,-90.306360&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Zhang",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=440679",
+                    "finalExam": {
+                        "type": "Dec 14 2020 10:30AM - 12:30PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "A",
+                    "days": [
+                        "Friday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "4:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "[TBA]",
+                    "instructorLink": "",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Sensors and Actuators",
+            "courseTag": "E35 ESE 444",
+            "units": "3.0",
+            "description": "The course provide engineering students with basic understanding of two of the main components of any modern electrical or electromechanical system; sensors as inputs and actuators as outputs. The covered topics include transfer functions, frequency responses and feedback control. Component matching and bandwidth issues. Performance specification and analysis, Sensors: analog and digital motion sensors, optical sensors, temperature sensors, magnetic and electromagnetic sensors, acoustic sensors, chemical sensors, radiation sensors, torque, force and tactile sensors. Actuators: stepper motors, DC and AC motors, hydraulic actuators, magnet and electromagnetic actuators, acoustic actuators. Introduction to interfacing methods: bridge circuits, A/D and D/A converters, microcontrollers. This course is useful for those students interested in control engineering, robotics and systems engineering. Prerequisites: one of the following 4 conditions:(1) prerequisite of ESE 230 and corequisite of ESE 351; (2) prerequisites of ESE 230, ESE 318 and MEMS 255 (Mechanics II); (3) prerequisite of ESE 351; (4) permission of instructor.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "5:30 PM",
+                    "endTime": "7:00 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Becnel",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=324318",
+                    "finalExam": {
+                        "type": "Dec 15 2020 6:00PM - 8:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Robotics Laboratory",
+            "courseTag": "E35 ESE 447",
+            "units": "3.0",
+            "description": "Introduces the students to various concepts such as modeling, identification, model validation and control of robotic systems. The course focuses on the implementation of identification and control algorithms on a two-link robotic manipulator (the so-called pendubot) that will be used as an experimental testbed. Topics include: Introduction to the mathematical modeling of robotic systems; nonlinear model, linearized model; Identification of the linearized model: input-output and state-space techniques; Introduction to the identification of the nonlinear model: energy-based techniques; model validation and simulation; stabilization using linear control techniques; a closer look at the dynamics; stabilization using nonlinear control techniques. Prerequisite: ESE 351 or MEMS 431. Corequisite or Prerequisite: ESE 441 and 446.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "11:00 AM",
+                    "endTime": "12:50PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Green Hall / 1157 ",
+                    "locationRef": "https://maps.google.com/maps?q=Green%20Hall,+Washington+University+in+Saint+Louis%4038.648812,-90.301328&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Mell",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=411889",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "02",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "5:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Green Hall / 1157 ",
+                    "locationRef": "https://maps.google.com/maps?q=Green%20Hall,+Washington+University+in+Saint+Louis%4038.648812,-90.301328&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Mell",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=411889",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Systems Engineering Laboratory",
+            "courseTag": "E35 ESE 448",
+            "units": "3.0",
+            "description": "Experimental study of real and simulated systems and their control. Identification, input-output analysis, design and implementation of control systems. Noise effects. Design and implementation of control laws for specific engineering problems. Prerequisite: ESE 441 and knowledge of a programming language, or permission of instructor.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "6:00 PM",
+                    "endTime": "8:00 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Green Hall / 1157 ",
+                    "locationRef": "https://maps.google.com/maps?q=Green%20Hall,+Washington+University+in+Saint+Louis%4038.648812,-90.301328&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Bhan",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=402726",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Design Automation for Integrated Circuit Systems",
+            "courseTag": "E35 ESE 461",
+            "units": "3.0",
+            "description": "Integrated circuit systems provide the core technology that power today's most advanced devices and electronics: smart phones, wearable devices, autonomous robots, and cars, aerospace or medical electronics. These systems often consist of silicon microchips made up by billions of transistors and contain various components such as microprocessors, DSPs, hardware accelerators, memories, and I/O interfaces, therefore design automation is critical to tackle the design complexity at the system level. The objectives of this course is to 1) introduce transistor-level analysis of basic digital logic circuits; 2) provide a general understanding of hardware description language (HDL) and design automation tools for very large scale integrated (VLSI) systems; 3) expose students to the design automation techniques used in the best-known academic and commercial systems. Topics covered include device and circuits for digital logic circuits, digital IC design flow, logic synthesis, physical design, circuit simulation and optimization, timing analysis, power delivery network analysis. Assignments include homework, mini-projects, term paper and group project. Prerequisites: ESE 232; ESE 260. ",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "10:00 AM",
+                    "endTime": "11:20 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Zhang, Silvia",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=445483",
+                    "finalExam": {
+                        "type": "Dec 14 2020 10:30AM - 12:30PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Digital Systems Laboratory",
+            "courseTag": "E35 ESE 465",
+            "units": "3.0",
+            "description": "Hardware/software co-design; processor interfacing; procedures for reliable digital design, both combinational and sequential; understanding manufacturers' specifications; use of test equipment. Several single-period laboratory exercises, several design projects, and application of microprocessors in digital design. One lecture and one laboratory period a week. Prerequisites: ESE 260 ",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "2:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Urbauer / 115 ",
+                    "locationRef": "https://maps.google.com/maps?q=Urbauer,+Washington+University+in+Saint+Louis%4038.649349,-90.306153&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Richter",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=51513",
+                    "finalExam": {
+                        "type": "Dec 15 2020 1:00PM - 3:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "A",
+                    "days": [
+                        "Thursday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Urbauer / 115 ",
+                    "locationRef": "https://maps.google.com/maps?q=Urbauer,+Washington+University+in+Saint+Louis%4038.649349,-90.306153&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Richter",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=51513",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Digital Signal Processing",
+            "courseTag": "E35 ESE 482",
+            "units": "3.0",
+            "description": "Introduction to analysis and synthesis of discrete-time linear time-invariant (LTI) systems. Discrete-time convolution, discrete-time Fourier transform, z-transform, rational function descriptions of discrete-time LTI systems. Sampling, analog-to-digital conversion, and digital processing of analog signals. Techniques for the design of finite impulse response (FIR) and infinite impulse response (IIR) digital filters. Hardware implementation of digital filters and finite-register effects. The Discrete Fourier Transform and the Fast Fourier Transform (FFT) algorithm. Prerequisite: ESE 351.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "5:30 PM",
+                    "endTime": "7:00 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Sutton",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=388303",
+                    "finalExam": {
+                        "type": "Dec 14 2020 6:00PM - 8:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Electrical Engineering Capstone Design Projects",
+            "courseTag": "E35 ESE 498",
+            "units": "3.0",
+            "description": "Capstone design project supervised by the course instructor. The project must use the theory, techniques, and concepts of the student's major: electrical engineering or systems science & engineering. The solution of a real technological or societal problem is carried through completely, starting from the stage of initial specification, proceeding with the application of engineering methods, and terminating with an actual solution. Collaboration with a client, typically either an engineer or supervisor from local industry or a professor or researcher in university laboratories, is encouraged. A proposal, an interim progress update, and a final report are required, each in the forms of a written document and oral presentation, as well as a Web page on the project. Weekly progress reports and meetings with the instructor are also required. Prerequisite: ESE senior standing and instructor's consent. Note: this course will meet at the scheduled time only during select weeks. If you cannot attend at that time, you may still register for the course.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Wang",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=484897",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Systems Science and Engineering Capstone Design Project",
+            "courseTag": "E35 ESE 499",
+            "units": "3.0",
+            "description": "Capstone design project supervised by the course instructor. The project must use the theory, techniques, and concepts of the student's major: electrical engineering or systems science & engineering. The solution of a real technological or societal problem is carried through completely, starting from the stage of initial specification, proceeding with the application of engineering methods, and terminating with an actual solution. Collaboration with a client, typically either an engineer or supervisor from local industry or a professor or researcher in university laboratories, is encouraged. A proposal, an interim progress update, and a final report are required, each in the forms of a written document and oral presentation, as well as a Web page on the project. Weekly progress reports and meetings with the instructor are also required. Prerequisite: ESE senior standing and instructor's consent. Note: this course will meet at the scheduled time only during select weeks. If you cannot attend at that time, you may still register for the course.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Wang",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=484897",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Mathematics of Modern Engineering I",
+            "courseTag": "E35 ESE 501",
+            "units": "3.0",
+            "description": "Matrix algebra: systems of linear equations, vector spaces, linear independence and orthogonality in vector spaces, eigenvectors and eigenvalues; Vector calculus: gradient, divergence, curl, line and surface integrals, theorems of Green, Stokes, and Gauss; Elements of Fourier analysis and its applications to solving some classical partial differential equations, heat, wave, and Laplace equation. Prerequisite: ESE 318 and ESE 319 or equivalent or consent of instructor. This course will not count toward the ESE doctoral program.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "5:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Kurenok",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=365520",
+                    "finalExam": {
+                        "type": "Dec 11 2020 6:00PM - 8:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Large-Scale Optimization for Data Science",
+            "courseTag": "E35 ESE 513",
+            "units": "3.0",
+            "description": "Large-scale optimization is an essential component of modern data science, artificial intelligence, and machine learning. This graduate-level course rigorously introduces optimization methods that are suitable for large-scale problems arising in these areas. We will learn several algorithms suitable for both smooth and nonsmooth optimization, including gradient methods, proximal methods, mirror descent, Nesterov's acceleration, ADMM, quasi-Newton methods, stochastic optimization, variance reduction, as well as distributed optimization. Throughout the class, we will discuss the efficacy of these methods in concrete data science problems, under appropriate statistical models. Students will be required to program in python or MATLAB. Prerequisites: CSE 247, Math 309, Math 3200 or ESE 326.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "2:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Kamilov",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=461527",
+                    "finalExam": {
+                        "type": "Dec 16 2020 1:00PM - 3:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Probability and Stochastic Processes",
+            "courseTag": "E35 ESE 520",
+            "units": "3.0",
+            "description": "Review of probability theory, models for random signals and noise, calculus of random processes, noise in linear and nonlinear systems, representation of random signals by sampling and orthonormal expansions. Poisson, Gaussian, and Markov processes as models for engineering problems. Prereq: ESE 326.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "5:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Kurenok",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=365520",
+                    "finalExam": {
+                        "type": "Dec 16 2020 6:00PM - 8:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Network Science",
+            "courseTag": "E35 ESE 526",
+            "units": "3.0",
+            "description": "This course focuses on fundamental theory, modeling, structure, and analysis methods in network science. The first part of the course includes basic network models and their mathematical principles. Topics include a review of graph theory, random graph models, scale-free network models and dynamic networks. The second part of the course includes structure and analysis methods in network science. Topics include network robustness, community structure, spreading phenomena and clique topology. Applications of the topics covered by this course include social networks, power grid, internet, communications, protein-protein interactions, epidemic control, global trade, neuroscience, etc. Prerequisite courses: ESE 520 (Probability and Stochastic Processes), Math 429 (Linear Algebra) or equivalent. ",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "5:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Nehorai",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=388377",
+                    "finalExam": {
+                        "type": "Dec 16 2020 6:00PM - 8:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Control Systems Design by State Space Methods",
+            "courseTag": "E35 ESE 543",
+            "units": "3.0",
+            "description": "Advanced design and analysis of control systems by state-space methods: classical control review, Laplace transforms, review of linear algebra (vector space, change of basis, diagonal and Jordan forms), linear dynamic systems (modes, stability, controllability, state feedback, observability, observers, canonical forms, output feedback, separation principle and decoupling), nonlinear dynamic systems (stability, Lyapunov methods). Frequency domain analysis of multivariable control systems. State space control system design methods: state feedback, observer feedback, pole placement, linear optimal control. Design exercises with CAD (computer-aided design) packages for engineering problems. Prerequisite: ESE 351 and ESE 441, or permission of instructor. ",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Friday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Wise",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=267867",
+                    "finalExam": {
+                        "type": "Exam last day of class",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Linear Dynamic Systems I",
+            "courseTag": "E35 ESE 551",
+            "units": "3.0",
+            "description": "Input-output and state-space description of linear dynamic systems. Solution of the state equations and the transition matrix. Controllability, observability, realizations, pole-assignment, observers and decoupling of linear dynamic systems. Prereq: ESE 351.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "5:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Zeng",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=462106",
+                    "finalExam": {
+                        "type": "Dec 11 2020 6:00PM - 8:00PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Computer Systems Architecture I",
+            "courseTag": "E35 ESE 560",
+            "units": "3.0",
+            "description": "An exploration of the central issues in computer architecture: instruction set design, addressing and register set design, control unit design, microprogramming, memory hierarchies (cache and main memories, mass storage, virtual memory), pipelining, and bus organization. The course emphasizes understanding the performance implications of design choices, using architecture modeling and evaluation using VHDL and/or instruction set simulation. Prerequisites: CSE 361S and CSE 260M. ",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Lopata Hall / 101 ",
+                    "locationRef": "https://maps.google.com/maps?q=Lopata%20Hall,+Washington+University+in+Saint+Louis%4038.649085,-90.306360&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Chamberlain",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=108693",
+                    "finalExam": {
+                        "type": "Dec 14 2020 3:30PM - 5:30PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Analog Integrated Circuits",
+            "courseTag": "E35 ESE 562",
+            "units": "3.0",
+            "description": "This course focuses on fundamental and advanced topics in analog and mixed-signal VLSI techniques. The first part of the course covers graduate level materials in the area of analog circuit synthesis and analysis. The second part of the course covers applications of the fundamental techniques for designing analog signal processors and data converters. Several practical aspects of mixed-signal design, simulation and testing are covered in this course. This is a project-oriented course and it is expected that the students apply the concepts learned in the course to design, simulate and explore different circuit topologies. Prerequisite: CSE 260 and ESE 232",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "11:30 AM",
+                    "endTime": "12:50PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Chakrabartty",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=446883",
+                    "finalExam": {
+                        "type": "Dec 15 2020 10:30AM - 12:30PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Electrical & Systems Engineering Graduate Seminar",
+            "courseTag": "E35 ESE 590",
+            "units": "0.0",
+            "description": "This satisfactory/unsatisfactory course is required for the Masters, DSc and PhD degrees in Electrical and Systems Engineering. A satisfactory grade is required for each semester of enrollment and is received by attendance at regularly scheduled ESE seminars. Masters students must attend at least 3 seminars per semester, except for first year Master's students who must attend 4. DSc and PhD students must attend at least 5 seminars per semester, except for first year PhD students who must attend 6. Part-time students are exempt except during their year of residency. Any student under continuing status is also exempt.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Green Hall / L0120 ",
+                    "locationRef": "https://maps.google.com/maps?q=Green%20Hall,+Washington+University+in+Saint+Louis%4038.648812,-90.301328&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Feher",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=451995",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Theoretical Imaging Science",
+            "courseTag": "E35 ESE 5933",
+            "units": "3.0",
+            "description": "Imaging science encompasses the design and optimization of imaging systems to quantitatively measure information of interest. Imaging systems are important in many scientific and medical applications and may be designed for one specific application or for a range of applications. Performance is quantified for any given task through an understanding of the statistical model for the imaging data, the data processing algorithm used, and a measure of accuracy or error. Optimal processing is based on statistical decision theory and estimation theory; performance bounds include the receiver operating characteristic and Cramer-Rao bounds. Bayesian methods often lead to ideal observers. Extensions of methods from finite-dimensional spaces to function space are fundamental for many imaging applications. A variety of methods to assess image quality and resulting imaging system optimization are covered. Prerequisite: Permission of instructor",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "O'Sullivan",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=276871",
+                    "finalExam": {
+                        "type": "Dec 16 2020 3:30PM - 5:30PM",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Seminar in Imaging Science and Engineering",
+            "courseTag": "E35 ESE 596",
+            "units": "1.0",
+            "description": "This seminar course consists of a series of tutorial lectures on Imaging Science and Engineering with emphasis on applications of imaging technology. Students are exposed to a variety of imaging applications that vary depending on the semester, but may include multispectral remote sensing, astronomical imaging, microscopic imaging, ultrasound imaging, and tomographic imaging. Guest lecturers come from several parts of the university. This course is required of all students in the Imaging Science and Engineering program; the only requirement is attendance. This course is graded Pass/Fail. Prerequisite: Admission to Imaging Science and Engineering Program.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Friday"
+                    ],
+                    "startTime": "8:30 AM",
+                    "endTime": "9:50 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Green Hall / L0120 ",
+                    "locationRef": "https://maps.google.com/maps?q=Green%20Hall,+Washington+University+in+Saint+Louis%4038.648812,-90.301328&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "O'Sullivan",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=276871",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Masters Research",
+            "courseTag": "E35 ESE 599",
+            "units": "3.0",
+            "description": "Prerequisite: Students must have the ",
+            "classes": [
+                {
+                    "sec": "02",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Arthur",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=276114",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "03",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Ching",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=432146",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "04",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "[TBA]",
+                    "instructorLink": "",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "06",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Zhang, Silvia",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=445483",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "07",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Lew",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=446660",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "08",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Kamilov",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=461527",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "10",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Min",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=275771",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "12",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Mukai",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=191522",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "13",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "O'Sullivan",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=276871",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "14",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Pickard",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=274454",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "16",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Rodin",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=276102",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "17",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Schaettler",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=274883",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "18",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Shrauner",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=277203",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "19",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Snyder",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=277363",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "20",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Spielman",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=275749",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "21",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Tarn",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=274904",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "27",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Nehorai",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=388377",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "28",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Yang",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=394126",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "29",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Li",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=393953",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "30",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Shen",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=410923",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "31",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Wang, Lihong",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=388296",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "32",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Kurenok",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=365520",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "34",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Mell",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=411889",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "36",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "[TBA]",
+                    "instructorLink": "",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "37",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Chakrabartty",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=446883",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "38",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Zeng",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=462106",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "39",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "(None) / ",
+                    "locationRef": "",
+                    "instructor": "Villa",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=469730",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Doctoral Research",
+            "courseTag": "E35 ESE 600",
+            "units": "9.0",
+            "description": "",
+            "classes": [
+                {
+                    "sec": "02",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Arthur",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=276114",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "03",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Ching",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=432146",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "04",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "[TBA]",
+                    "instructorLink": "",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "06",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Zhang, Silvia",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=445483",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "07",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Lew",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=446660",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "08",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Kamilov",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=461527",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "10",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Min",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=275771",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "11",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "[TBA]",
+                    "instructorLink": "",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "12",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Mukai",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=191522",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "13",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "O'Sullivan",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=276871",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "14",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Pickard",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=274454",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "16",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Rodin",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=276102",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "17",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Schaettler",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=274883",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "18",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Shrauner",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=277203",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "19",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Snyder",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=277363",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "20",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Spielman",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=275749",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "21",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Tarn",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=274904",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "27",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Nehorai",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=388377",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "28",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Yang",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=394126",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "29",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Li",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=393953",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "30",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Shen",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=410923",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "31",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Wang, Chuan",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=462498",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "32",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Kurenok",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=365520",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "34",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Mell",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=411889",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "36",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "[TBA]",
+                    "instructorLink": "",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "37",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Chakrabartty",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=446883",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "38",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "(None) / ",
+                    "locationRef": "",
+                    "instructor": "Zeng",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=462106",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "39",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Patwari",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=471907",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "40",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "(None) / ",
+                    "locationRef": "",
+                    "instructor": "Sotiras",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=471776",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "41",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "(None) / ",
+                    "locationRef": "",
+                    "instructor": "Jha",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=465936",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "42",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "(None) / ",
+                    "locationRef": "",
+                    "instructor": "Raman",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=412194",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "43",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "(None) / ",
+                    "locationRef": "",
+                    "instructor": "Tai",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=364785",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "44",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "(None) / ",
+                    "locationRef": "",
+                    "instructor": "Zhu",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=453866",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Research Rotation for ESE Doctoral Students",
+            "courseTag": "E35 ESE 601",
+            "units": "3.0",
+            "description": "Doctoral students in Electrical and Systems Engineering are required to complete two rotations during their first year, and may complete three rotations, with research mentors acceptable to the Department. The rotations must be mutually agreeable to both the student and faculty member. The grade will be assigned based on a written report from one of the rotations. The rotation allow students to sample different research projects and laboratory working environments, to enable matching doctoral students and research mentors with whom they will carry out PhD dissertation research.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "(None) / ",
+                    "locationRef": "",
+                    "instructor": "O'Sullivan",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=276871",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Doctoral Continuing Student Status",
+            "courseTag": "E35 ESE 884",
+            "units": "0.0",
+            "description": "",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Registrar",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=326736",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

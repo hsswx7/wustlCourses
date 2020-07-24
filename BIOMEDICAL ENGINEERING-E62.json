@@ -1,0 +1,2318 @@
+{
+    "departmentName": "BIOMEDICAL ENGINEERING",
+    "departmentCode": "E62",
+    "courses": [
+        {
+            "courseName": "Introduction to Biomedical Engineering",
+            "courseTag": "E62 BME 140",
+            "units": "3.0",
+            "description": "An introduction to the vast and diverse field of biomedical engineering (BME), this very challenging course has two main purposes. One is to teach students -- via lectures, reading assignments, homework and exams, to think on their own, to solve problems, and how engineering principles are applied to the areas of bioelectricity, biomechanics, biomolecules, biotechnology, and bioimaging. The second is to introduce students, via guest lectures by school of medicine and engineering faculty, to some of the fascinating and challenging ongoing research in these areas. By the end of the course students will have begun to acquire the skills and approaches necessary to succeed in the engineering curriculum as well as a much more in-depth and informed perspective of BME. Corequisites: Phys. 117A or 197, Chem 111A, and college level calculus.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Whitaker / 100 ",
+                    "locationRef": "https://maps.google.com/maps?q=Whitaker,+Washington+University+in+Saint+Louis%4038.649162,-90.303238&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Widder",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=251858",
+                    "finalExam": {
+                        "type": "In Class",
+                        "finalExamDay": "Dec 14 2020",
+                        "finalExamStartTime": "3:30 PM",
+                        "finalExamEndTime": "5:30 PM"
+                    }
+                },
+                {
+                    "sec": "02",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Whitaker / 130 ",
+                    "locationRef": "https://maps.google.com/maps?q=Whitaker,+Washington+University+in+Saint+Louis%4038.649162,-90.303238&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Widder",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=251858",
+                    "finalExam": {
+                        "type": "In Class",
+                        "finalExamDay": "Dec 14 2020",
+                        "finalExamStartTime": "3:30 PM",
+                        "finalExamEndTime": "5:30 PM"
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Quantitative Physiology I",
+            "courseTag": "E62 BME 301A",
+            "units": "4.0",
+            "description": "This course will consist of hands-on laboratory experiments in topics relevant to bioengineering mechanics such as statics of rigid bodies, viscoelasticity, and stress/strain analysis of biological materials. A focus of the course will be extending fundamental mechanical principles to biological applications through experimentation. The course is designed to follow and enhance the material covered in BME 240. Additionally, students will have the opportunity to design their own experiments, explore topics of special interest, and present their findings. Prerequisites: Concurrent or completed BME 240 ",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "2:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Whitaker / 100 ",
+                    "locationRef": "https://maps.google.com/maps?q=Whitaker,+Washington+University+in+Saint+Louis%4038.649162,-90.303238&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Widder",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=251858",
+                    "finalExam": {
+                        "type": "Exam last day of class",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Transport Phenomena in Biomedical Engineering",
+            "courseTag": "E62 BME 366",
+            "units": "3.0",
+            "description": "A course (lectures, recitation and supervised laboratory sections) designed to elaborate the physiological background necessary for advanced work in biomedical engineering. A quantitative model-oriented approach to physiological systems is stressed. Topics include bioinstrumentation, eye movement, muscle mechanics, action potentials, sensory systems, neuroprosthetics. Prerequisites: BME 140, CSE 131, ESE 230, Biol 3058 (Previously Biol 3050 or 3059), ESE 319, or permission of instructor.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Whitaker / 216 ",
+                    "locationRef": "https://maps.google.com/maps?q=Whitaker,+Washington+University+in+Saint+Louis%4038.649162,-90.303238&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Shao, J-Y",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=305220",
+                    "finalExam": {
+                        "type": "In Class",
+                        "finalExamDay": "Dec 14 2020",
+                        "finalExamStartTime": "3:30 PM",
+                        "finalExamEndTime": "5:30 PM"
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Biomedical Engineering Design",
+            "courseTag": "E62 BME 401",
+            "units": "3.0",
+            "description": "This course covers the foundations of thermodynamics with strong emphasis on concepts and the translation of concepts. Topics to be covered include the first and second laws of thermodynamics, probabilistic descriptions of entropy, consequences of the first and second laws in ideal and non-ideal single- and multicomponent systems, free energies as descriptors of equilibria in laboratory and biological systems, chemical equilibria, phase equilibria, treatment of aqueous solvents and mixtures, colligative properties, thermodynamics of protein folding, and protein binding equilibria. The material, the lectures, and the homeworks emphasize learning that enables the translation of concepts into mathematical analysis. A strong background in differential calculus of multiple variables and differential equations (Math 217) is required. Emphasis is placed on regular homeworks and working in collaborative groups. The main textbook for the course will be \"Molecular Driving Forces: Statistical Thermodynamics in Chemistry and Biology\", 2nd edition by Ken A. Dill and Sarina Bromberg published by Garland Science. The lectures and course notes will also draw on other sources including the classical book by Herbert Callen. A weekly recitation section, BME 320A, is offered on Tuesdays between 4:00 PM and 5:30 PM. Students are strongly urged to attend lectures and the recitation section.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "8:30 AM",
+                    "endTime": "9:50 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Whitaker / 100 ",
+                    "locationRef": "https://maps.google.com/maps?q=Whitaker,+Washington+University+in+Saint+Louis%4038.649162,-90.303238&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Klaesner, J",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=177504",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "02",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "8:30 AM",
+                    "endTime": "9:50 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Whitaker / 218 ",
+                    "locationRef": "https://maps.google.com/maps?q=Whitaker,+Washington+University+in+Saint+Louis%4038.649162,-90.303238&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Klaesner, J",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=177504",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Mathematics of Imaging Science",
+            "courseTag": "E62 BME 470",
+            "units": "3.0",
+            "description": "Many processes of importance in biology and medicine involve the transfer of mass, heat or momentum. Through the use of the differential control volume approach, the fundamental transport equations will be derived. Systematic derivation of differential equations appropriate for different types of transport problems will be explored. Solutions of the resulting differential equations for simple chemical/biological systems will then be sought. Macroscopic descriptions of fluid flow will be applied to the design of blood pumps for the heart. Unsteady mass transfer with diffusion, advection and chemical reactions will also be applied to the transport of proteins, metabolites and therapeutics throughout the body. Prerequisites: BME 240, Math 217, ESE 318 and ESE 319, BME 320B",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Whitaker / 100 ",
+                    "locationRef": "https://maps.google.com/maps?q=Whitaker,+Washington+University+in+Saint+Louis%4038.649162,-90.303238&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Jha, A",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=465936",
+                    "finalExam": {
+                        "type": "In Class",
+                        "finalExamDay": "Dec 14 2020",
+                        "finalExamStartTime": "3:30 PM",
+                        "finalExamEndTime": "5:30 PM"
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Bioelectric Phenomena",
+            "courseTag": "E62 BME 471",
+            "units": "3.0",
+            "description": "A design project experience to prepare students for engineering practice. Working in small groups, students will undertake an original design or redesign of a component or system of biotechnological significance. The design experience will require application of knowledge and skills acquired in earlier classes and laboratory work; it will incorporate engineering standards and realistic constraints that include most of the following considerations: economic, environmental, ethical, manufacturability, sustainability, health and safety, social and political. Students will prepare written reports and present their designs orally to their classmates and panels of faculty members and industrial representatives. Prerequisites: BME 301A, BME 301B and senior standing.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "10:00 AM",
+                    "endTime": "11:20 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Whitaker / 100 ",
+                    "locationRef": "https://maps.google.com/maps?q=Whitaker,+Washington+University+in+Saint+Louis%4038.649162,-90.303238&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Moran, D",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=360484",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Ultrasound Imaging",
+            "courseTag": "E62 BME 494",
+            "units": "3.0",
+            "description": "This course will expose students to a unified treatment of the mathematical properties of images and imaging. This will include an introduction to linear vector space theory, operator theory on Hilbert spaces, and concepts from applied functional analysis. Further, concepts from generalized functions, Fourier analysis, and Radon transform will be discussed. These tools will be applied to conduct deterministic analyses of imaging systems that are described as continuous-to-continuous, continuous-to-discrete, and discrete-to-discrete mappings from object properties to image data. In addition, imaging systems will be analyzed in a statistical framework where stochastic models for objects and images will be introduced. Prerequisite: Graduate standing or consent of instructor.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "8:30 AM",
+                    "endTime": "9:50 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Whitaker / 216 ",
+                    "locationRef": "https://maps.google.com/maps?q=Whitaker,+Washington+University+in+Saint+Louis%4038.649162,-90.303238&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Chen, Hong",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=447096",
+                    "finalExam": {
+                        "type": "In Class",
+                        "finalExamDay": "Dec 11 2020",
+                        "finalExamStartTime": "1:00 PM",
+                        "finalExamEndTime": "3:00 PM"
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Graduate Seminar",
+            "courseTag": "E62 BME 501",
+            "units": "0.0",
+            "description": "This course is a quantitative introduction to the origins of bioelectricity with an emphasis on neural and cardiac electrophysiology. Topics will include electric fields and current flow in volume conductors; cell membrane channels and their role in generating membrane potentials; action potentials and their propagation in myelinated and unmyelinated axons as well as cardiac tissue. Minor topics of discussion will include both skeletal muscle and non-human (e.g. electric fish) sources of bioelectricity.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Thursday"
+                    ],
+                    "startTime": "10:00 AM",
+                    "endTime": "11:20 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Whitaker / 218 ",
+                    "locationRef": "https://maps.google.com/maps?q=Whitaker,+Washington+University+in+Saint+Louis%4038.649162,-90.303238&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Shao",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=305220",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "02",
+                    "days": [
+                        "Monday"
+                    ],
+                    "startTime": "4:30 PM",
+                    "endTime": "6:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Whitaker / 218 ",
+                    "locationRef": "https://maps.google.com/maps?q=Whitaker,+Washington+University+in+Saint+Louis%4038.649162,-90.303238&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Shao",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=305220",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "01",
+                    "days": [
+                        "Thursday"
+                    ],
+                    "startTime": "10:00 AM",
+                    "endTime": "11:20 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Shao",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=305220",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Seminar in Imaging Science and Engineering",
+            "courseTag": "E62 BME 506",
+            "units": "1.0",
+            "description": "Introduce basic principles of ultrasound imaging, diagnostic ultrasound imaging system, clinical applications, and emerging technologies in industry. Prerequisite: ESE 351",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Friday"
+                    ],
+                    "startTime": "8:30 AM",
+                    "endTime": "9:50 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Green Hall / L0120 ",
+                    "locationRef": "https://maps.google.com/maps?q=Green%20Hall,+Washington+University+in+Saint+Louis%4038.648812,-90.301328&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "O'Sullivan",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=276871",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Biomaterials Science",
+            "courseTag": "E62 BME 523",
+            "units": "3.0",
+            "description": "This is a pass/fail course which is required for the MS or the PhD degrees. A passing grade is required for each semester of full-time enrollment (6 units or more). A passing grade is received by attendance at the regularly scheduled BME seminars.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "2:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Huebsch",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=462384",
+                    "finalExam": {
+                        "type": "In Class",
+                        "finalExamDay": "Dec 15 2020",
+                        "finalExamStartTime": "1:00 PM",
+                        "finalExamEndTime": "3:00 PM"
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Molecular Cell Biology for Engineers",
+            "courseTag": "E62 BME 530A",
+            "units": "3.0",
+            "description": "This is a one unit credit option for BME students who attend regularly scheduled BME seminars (or approved substitute seminars). A satisfactory grade is obtained by submission of a two page peer reviewed paper written by one of the regularly scheduled BME seminar speakers whose seminar you attended. Papers are to be submitted to the Graduate Student Administrator for review by the Director of Doctoral Studies. Prerequisites: Students must be current BME students in their 2nd year and beyond in order to register",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "1:00 PM",
+                    "endTime": "2:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Whitaker / 218 ",
+                    "locationRef": "https://maps.google.com/maps?q=Whitaker,+Washington+University+in+Saint+Louis%4038.649162,-90.303238&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Schreiber, K",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=455858",
+                    "finalExam": {
+                        "type": "In Class",
+                        "finalExamDay": "Dec 16 2020",
+                        "finalExamStartTime": "1:00 PM",
+                        "finalExamEndTime": "3:00 PM"
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Biomedical Signal Processing",
+            "courseTag": "E62 BME 533",
+            "units": "3.0",
+            "description": "This seminar course consists of a series of tutorial lectures on Imaging Science and Engineering with emphasis on applications of imaging technology. Students are exposed to a variety of imaging applications that vary depending on the semester, but may include multispectral remote sensing, astronomical imaging, microscopic imaging, ultrasound imaging, and tomographic imaging. Guest lecturers come from several parts of the university. This course is required of all students in the Imaging Science and Engineering program; the only requirement is attendance. This course is graded Pass/Fail. Prerequisite: Admission to Imaging Science and Engineering Program.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Whitaker / 318 ",
+                    "locationRef": "https://maps.google.com/maps?q=Whitaker,+Washington+University+in+Saint+Louis%4038.649162,-90.303238&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Hu, Song",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=392737",
+                    "finalExam": {
+                        "type": "In Class",
+                        "finalExamDay": "Dec 14 2020",
+                        "finalExamStartTime": "3:30 PM",
+                        "finalExamEndTime": "5:30 PM"
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Computational Molecular Biology",
+            "courseTag": "E62 BME 537",
+            "units": "3.0",
+            "description": "An understanding of the interactions between biological systems and artificial materials is of vital importance in the design of medical devices. This course will introduce the principles of biomaterials science, unifying knowledge from the fields of biology, materials science, surface science, and colloid science. The course will be taught from the primary scientific literature, focusing on the study of protein/surface interactions and hydrogel materials.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday",
+                        "Friday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "3:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Farrell T/L Ctr / HLDN ",
+                    "locationRef": "https://maps.google.com/maps?q=Farrell%20T/L%20Ctr,+Washington+University+in+Saint+Louis%4038.635386,-90.262706&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Brent",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=324613",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Systems Analysis of Biological Signaling",
+            "courseTag": "E62 BME 5430",
+            "units": "3.0",
+            "description": "This course is designed for upper level undergraduates and first year graduate students with a background in engineering. This course covers the biology of cells of higher organisms: protein structure and function; cellular membranes and organelles; cell growth and oncogenic transformation; cellular transport, receptors and cell signaling; the cytoskeleton, the extracellular matrix, and cell movement. Emphasis will be placed on examples relevant to biomedical engineering. In addition to lecture material, an emphasis will be placed on understanding experimental techniques used in cell biology and critical analysis of primary literature. Note this course does not count for engineering topics credits and is meant to fulfill a life science requirement for engineering or physical sciences graduate students. Prereq: Completion of Biol 2960 and 2970 or graduate standing.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "5:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Whitaker / 218 ",
+                    "locationRef": "https://maps.google.com/maps?q=Whitaker,+Washington+University+in+Saint+Louis%4038.649162,-90.303238&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Imoukhuede",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=466938",
+                    "finalExam": {
+                        "type": "In Class",
+                        "finalExamDay": "Dec 16 2020",
+                        "finalExamStartTime": "6:00 PM",
+                        "finalExamEndTime": "8:00 PM"
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Mechanobiology of Cells and Matrices",
+            "courseTag": "E62 BME 5565",
+            "units": "3.0",
+            "description": "Course designed for graduate students with little or no background in biomedical signal processing. Continuous-time and discrete-time application of signal processing tools to a variety of biomedical problems. Course topics include review of linear signals and systems theory, frequency transforms, frequency analysis, sampling theorem, basis functions, linear filtering, feature extraction, parameter estimation and biological system modeling. Special emphasis will be placed on signal transduction and data acquisition. Additional topics include noise analysis of real-world biosignals, biological system identification, stochastic/chaotic/ fractal/nonlinear processes in biological systems. Concepts learned in class will be applied using software tools to 1D biomedical signals such as biological rhythms, chemical concentrations, blood pressure, speech, EMG, ECG, EEG and biomedical images. Prerequisites: graduate standing or consent of instructor.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "10:00 AM",
+                    "endTime": "11:20 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Pathak",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=429640",
+                    "finalExam": {
+                        "type": "In Class",
+                        "finalExamDay": "Dec 14 2020",
+                        "finalExamStartTime": "10:30 AM",
+                        "finalExamEndTime": "12:30 PM"
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Mathematics of Imaging Science",
+            "courseTag": "E62 BME 570",
+            "units": "3.0",
+            "description": "This course is a survey of algorithms and mathematical methods in biological sequence analysis (with a strong emphasis on probabilistic methods) and systems biology. Sequence analysis topics include introduction to probability, probabilistic inference in missing data problems, hidden Markov models (HMMs), profile HMMs, sequence alignment, and identification of transcription-factor binding sites. Systems biology topics include discovery of gene regulatory networks, quantitative modeling of gene regulatory networks, synthetic biology, and (in some years) quantitative modeling of metabolism. Prerequisites: CSE 131 or CSE 501N.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "2:30 PM",
+                    "endTime": "3:50 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Whitaker / 100 ",
+                    "locationRef": "https://maps.google.com/maps?q=Whitaker,+Washington+University+in+Saint+Louis%4038.649162,-90.303238&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Jha, A",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=465936",
+                    "finalExam": {
+                        "type": "In Class",
+                        "finalExamDay": "Dec 14 2020",
+                        "finalExamStartTime": "3:30 PM",
+                        "finalExamEndTime": "5:30 PM"
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Integrative Cardiac Electrophysiology",
+            "courseTag": "E62 BME 5901",
+            "units": "3.0",
+            "description": "Biochemical and computational methods of cellular signaling pathway analysis Topics include kinetics, differential equations, and sensitivity analysis with emphasis on cellular and molecular vascular signaling in health and disease. Prerequisites: Biol 2960, Math 217",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "5:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Cui",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=380234",
+                    "finalExam": {
+                        "type": "In Class",
+                        "finalExamDay": "Dec 16 2020",
+                        "finalExamStartTime": "6:00 PM",
+                        "finalExamEndTime": "8:00 PM"
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Biomedical Optics I: Principles",
+            "courseTag": "E62 BME 591",
+            "units": "3.0",
+            "description": "At the interface of the cell and the extracellular matrix, mechanical forces regulate key cellular and molecular events that profoundly affect aspects of human health and disease. This course offers a detailed review of biomechanical inputs that drive cell behavior in physically diverse matrices. In particular, cytoskeletal force-generation machineries, mechanical roles of cell-cell and cell-matrix adhesions, and regulation of matrix deformations are discussed. Also covered are key methods for mechanical measurements and mathematical modeling of cellular response. Implications of matrix-dependent cell motility in cancer metastasis and embryonic development are discussed. Prerequisite: graduate standing or permission of the instructor",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Monday",
+                        "Wednesday"
+                    ],
+                    "startTime": "4:00 PM",
+                    "endTime": "5:20 PM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Whitaker / 216 ",
+                    "locationRef": "https://maps.google.com/maps?q=Whitaker,+Washington+University+in+Saint+Louis%4038.649162,-90.303238&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Zhu",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=453866",
+                    "finalExam": {
+                        "type": "In Class",
+                        "finalExamDay": "Dec 11 2020",
+                        "finalExamStartTime": "6:00 PM",
+                        "finalExamEndTime": "8:00 PM"
+                    }
+                },
+                {
+                    "sec": "01",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "(None) / ",
+                    "locationRef": "",
+                    "instructor": "Kovacs, S",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=274735",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Cardiovascular Biophysics Journal Club",
+            "courseTag": "E62 BME 5911",
+            "units": "1.0",
+            "description": "This course will expose students to a unified treatment of the mathematical properties of images and imaging. This will include an introduction to linear vector space theory, operator theory on Hilbert spaces, and concepts from applied functional analysis. Further, concepts from generalized functions, Fourier analysis, and Radon transform will be discussed. These tools will be applied to conduct deterministic analyses of imaging systems that are described as continuous-to-continuous, continuous-to-discrete, and discrete-to-discrete mappings from object properties to image data. In addition, imaging systems will be analyzed in a statistical framework where stochastic models for objects and images will be introduced. Prerequisite: Graduate standing or consent of instructor.",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "(None) / ",
+                    "locationRef": "",
+                    "instructor": "Kovacs, S",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=274735",
+                    "finalExam": {
+                        "type": "No final",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Ultrasound Imaging",
+            "courseTag": "E62 BME 594",
+            "units": "3.0",
+            "description": "Quantitative electrophysiology of the heart, integrating from the molecular level (ion channels, regulatory pathways, cell signaling) to the cardiac cell (action potential and calcium transient), multicellular tissue (cell-cell communication) and the whole heart. Prerequisite: Permission of Instructor",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [
+                        "Tuesday",
+                        "Thursday"
+                    ],
+                    "startTime": "8:30 AM",
+                    "endTime": "9:50 AM",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "Whitaker / 216 ",
+                    "locationRef": "https://maps.google.com/maps?q=Whitaker,+Washington+University+in+Saint+Louis%4038.649162,-90.303238&hl=en&vpsrc=0&t=m&z=16",
+                    "instructor": "Chen, Hong",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=447096",
+                    "finalExam": {
+                        "type": "In Class",
+                        "finalExamDay": "Dec 11 2020",
+                        "finalExamStartTime": "1:00 PM",
+                        "finalExamEndTime": "3:00 PM"
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Masters Research",
+            "courseTag": "E62 BME 599",
+            "units": "6.0",
+            "description": "This course covers the principles of optical photon transport in biological tissue. Topics include a brief introduction to biomedical optics, single-scatterer theories, Monte Carlo modeling of photon transport, convolution for broad-beam responses, radiative transfer equation and diffusion theory, hybrid Monte Carlo method and diffusion theory, and sensing of optical properties and spectroscopy. Prerequisite: Differential equations",
+            "classes": [
+                {
+                    "sec": "01",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Setton",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=445642",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "02",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "(None) / ",
+                    "locationRef": "",
+                    "instructor": "Zhu",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=453866",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "03",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Jha",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=465936",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "04",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Ances",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=403258",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "05",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "(None) / ",
+                    "locationRef": "",
+                    "instructor": "Guilak",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=446820",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "23",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Huebsch",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=462384",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "29",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "O'Sullivan",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=276871",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        },
+        {
+            "courseName": "Doctoral Research",
+            "courseTag": "E62 BME 600",
+            "units": "12.0",
+            "description": "This journal club is intended for beginning graduate students, advanced undergraduates, and MSTP students with a background in the quantitative sciences (engineering, physics, math, chemistry, etc). The subjects covered are inherently multidisciplinary. We will review landmark and recent publications in quantitative cardiovascular physiology, mathematical modeling of physiologic systems and related topics such as chaos theory and nonlinear dynamics of biological systems. Familiarity with calculus, differential equations, and basic engineering/thermodynamic principles is assumed. Weekly meetings to review and discuss current cardiovascular physiology and biophysics journal articles. Prerequisite: Calculus, physiology/anatomy is optional.",
+            "classes": [
+                {
+                    "sec": "02",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Snyder, L.",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=274594",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "03",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Bayly",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=274794",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "04",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Moran",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=360484",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "05",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Tang, S.",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428054",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "07",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Diantonio",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=324228",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "08",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Setton, L.",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=445642",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "09",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Wickline",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=275253",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "10",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Taber",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=267939",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "11",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Mitra",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=377750",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "12",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Guilak",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=446820",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "13",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Havranek",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=402851",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "15",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Ray, W. Zach",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428053",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "16",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Rentschler",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428578",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "17",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Barbour",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=380903",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "18",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Wang, Xiaowei",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=396098",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "19",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Monosov, I.",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=441139",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "20",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Cui",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=380234",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "21",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Culver",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=377928",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "22",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Chen, Hong",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=447096",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "23",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Wang, Yong",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=380653",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "24",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Lai, Albert",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=454564",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "25",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Barch",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=325797",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "26",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "An, Hongyu",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=263987",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "27",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Greenberg, M",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=447406",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "29",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "O'Sullivan",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=276871",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "30",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Shao",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=305220",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "31",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Millman, Jeffrey",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=447447",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "32",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Chakrabartty, Shantanu",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=446883",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "33",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Lake, S",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428286",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "34",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Marshall",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=276166",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "35",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Bridgman",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=277296",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "36",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Ponder",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=275418",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "37",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Brent",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=324613",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "38",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Silva, Matt",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=274451",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "39",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Shokeen",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=363824",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "40",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Zhu,Qing",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=453866",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "42",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Pathak, A",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=429640",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "43",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Scheller",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=448102",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "44",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Pappu",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=364556",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "45",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Imoukhuede, P",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=466938",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "46",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Gach",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=445048",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "47",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "McAlinden,A.",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=377888",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "48",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Thoroughman",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=365185",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "49",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Meyer,Gretchen (PT)",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=355821",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "50",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Lanza",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=267675",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "51",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Vahey",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=464629",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "52",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Lee, J-M",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=357960",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "53",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "(None) / ",
+                    "locationRef": "",
+                    "instructor": "Kerschensteiner",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=410816",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "54",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Zhang,Tiezhi",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=440980",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "56",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Klaesner",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=177504",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "57",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Leuthardt",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=393273",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "58",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Eggebrecht",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=171226",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "59",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Mecham",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=230781",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "60",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "French",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=377796",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "61",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Parikh",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=261115",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "62",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Achilefu",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=359950",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "63",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Azab, Kareem",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=427365",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "64",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Raman",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=412194",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "65",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Van Essen",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=277280",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "66",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Huebsch",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=462384",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "67",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Bijsterbosch",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=472376",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "68",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Bauer",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=371739",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "69",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Li, Hui",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=382598",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "70",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Jha",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=465936",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "71",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Piston",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=442186",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "72",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Ances",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=403258",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "73",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Tai",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=364785",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "74",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Holy",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=364658",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "76",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Corbetta",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=276598",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "77",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Nichols",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=275105",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "78",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Earhart",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=229538",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "79",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Woodard",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=274407",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "80",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Zhou, Chao",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=481962",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "81",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Han",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=440987",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "82",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Silva, Jon",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=380445",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "83",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Ding",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=386291",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "84",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Maher, C.",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=422710",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "85",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Sandell",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=275694",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "86",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Wagenseil",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=298553",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "88",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Park, Chunjoo",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=453464",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "89",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Pincus",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=434400",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "90",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Lang, C. (PT)",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=635",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                },
+                {
+                    "sec": "91",
+                    "days": [],
+                    "startTime": "",
+                    "endTime": "",
+                    "startDate": "9/14/2020",
+                    "endDate": "1/10/2021",
+                    "location": "TBA",
+                    "locationRef": "",
+                    "instructor": "Dantas,G.",
+                    "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=410809",
+                    "finalExam": {
+                        "type": "Default - none",
+                        "finalExamDay": "",
+                        "finalExamStartTime": "",
+                        "finalExamEndTime": ""
+                    }
+                }
+            ]
+        }
+    ]
+}
