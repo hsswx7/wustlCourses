@@ -2,7 +2,7 @@ import sys, os, re, json
 from bs4 import BeautifulSoup
 
 # ex. tdFavE81131 or tdFavE81131R
-departmentInfo = re.compile("([\sA-Z]+)+\s[(]([A-Z]+[0-9]*){1}[)]{1}")
+departmentInfo = re.compile("([\sA-Z,&]+)+\s[(]([A-Z]+[0-9]*){1}[)]{1}")
 class_td = re.compile("\\b(tdFav){1}([A-Z]){1}([0-9]{2}){1}([0-9]{3,4}){1}([ATSNMR])?\\b")
 tr_class_info = re.compile("\\b(tr){1}[A-Z]{1}([0-9]{2}){1}([0-9]{3,4}){1}([A-Z])?([0-9]{1,3})?[A-Z]{1}\\b")
 finalExamStartDayAndtime = re.compile('\\b(([A-Z]{1}[a-z]{2}){1}([\s]{1}){1}([\w]{1,2}){1}([\s]{1}){1}([\w]{4})){1}([\s]{1}){1}(([0-9]|0[0-9]|1[0-9]|2[0-3]):([0-5][0-9])\s*([AaPp][Mm]))\\b')
