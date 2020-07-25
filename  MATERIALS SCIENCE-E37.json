@@ -323,10 +323,10 @@
                     "instructor": "Lake",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=428286",
                     "finalExam": {
-                        "type": "Dec 16 2020 1:00PM - 3:00PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 16 2020",
+                        "finalExamStartTime": "1:00 PM",
+                        "finalExamEndTime": "3:00 PM"
                     }
                 },
                 {
@@ -345,10 +345,10 @@
                     "instructor": "Wagenseil",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=298553",
                     "finalExam": {
-                        "type": "Dec 14 2020 10:30AM - 12:30PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 14 2020",
+                        "finalExamStartTime": "10:30 AM",
+                        "finalExamEndTime": "12:30 PM"
                     }
                 }
             ]
@@ -375,10 +375,10 @@
                     "instructor": "Potter",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=455943",
                     "finalExam": {
-                        "type": "Dec 15 2020 10:30AM - 12:30PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 15 2020",
+                        "finalExamStartTime": "10:30 AM",
+                        "finalExamEndTime": "12:30 PM"
                     }
                 }
             ]
@@ -404,10 +404,10 @@
                     "instructor": "Agonafer",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=453900",
                     "finalExam": {
-                        "type": "Dec 11 2020 1:00PM - 3:00PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 11 2020",
+                        "finalExamStartTime": "1:00 PM",
+                        "finalExamEndTime": "3:00 PM"
                     }
                 },
                 {
@@ -445,7 +445,7 @@
                         "Thursday"
                     ],
                     "startTime": "11:30 AM",
-                    "endTime": "12:50PM",
+                    "endTime": "12:50 PM",
                     "startDate": "9/14/2020",
                     "endDate": "1/10/2021",
                     "location": "Jubel / 138   ",
@@ -453,10 +453,10 @@
                     "instructor": "Potter",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=455943",
                     "finalExam": {
-                        "type": "Dec 14 2020 1:00PM - 3:00PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 14 2020",
+                        "finalExamStartTime": "1:00 PM",
+                        "finalExamEndTime": "3:00 PM"
                     }
                 }
             ]
@@ -474,7 +474,7 @@
                         "Thursday"
                     ],
                     "startTime": "11:30 AM",
-                    "endTime": "12:50PM",
+                    "endTime": "12:50 PM",
                     "startDate": "9/14/2020",
                     "endDate": "1/10/2021",
                     "location": "TBA",
@@ -482,10 +482,10 @@
                     "instructor": "Boyd",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=441358",
                     "finalExam": {
-                        "type": "Dec 14 2020 1:00PM - 3:00PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 14 2020",
+                        "finalExamStartTime": "1:00 PM",
+                        "finalExamEndTime": "3:00 PM"
                     }
                 },
                 {
@@ -503,10 +503,10 @@
                     "instructor": "Boyd",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=441358",
                     "finalExam": {
-                        "type": "Dec 15 2020 1:00PM - 3:00PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 15 2020",
+                        "finalExamStartTime": "1:00 PM",
+                        "finalExamEndTime": "3:00 PM"
                     }
                 }
             ]
@@ -532,10 +532,10 @@
                     "instructor": "Bersi",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=488427",
                     "finalExam": {
-                        "type": "Dec 15 2020 6:00PM - 8:00PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 15 2020",
+                        "finalExamStartTime": "6:00 PM",
+                        "finalExamEndTime": "8:00 PM"
                     }
                 }
             ]
@@ -560,10 +560,10 @@
                     "instructor": "Bayly",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=274794",
                     "finalExam": {
-                        "type": "Dec 11 2020 10:30AM - 12:30PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 11 2020",
+                        "finalExamStartTime": "10:30 AM",
+                        "finalExamEndTime": "12:30 PM"
                     }
                 },
                 {
@@ -989,10 +989,10 @@
                     "instructor": "Holland",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=483559",
                     "finalExam": {
-                        "type": "Dec 16 2020 3:30PM - 5:30PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 16 2020",
+                        "finalExamStartTime": "3:30 PM",
+                        "finalExamEndTime": "5:30 PM"
                     }
                 }
             ]
@@ -1049,10 +1049,10 @@
                     "instructor": "Peters",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=275741",
                     "finalExam": {
-                        "type": "Dec 15 2020 10:30AM - 12:30PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 15 2020",
+                        "finalExamStartTime": "10:30 AM",
+                        "finalExamEndTime": "12:30 PM"
                     }
                 },
                 {
@@ -1071,10 +1071,10 @@
                     "instructor": "Karunamoorthy",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=178130",
                     "finalExam": {
-                        "type": "Dec 11 2020 8:00AM - 10:00AM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 11 2020",
+                        "finalExamStartTime": "8:00 AM",
+                        "finalExamEndTime": "10:00 AM"
                     }
                 }
             ]
@@ -1157,10 +1157,10 @@
                     "instructor": "Bayly",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=274794",
                     "finalExam": {
-                        "type": "Dec 16 2020 6:00PM - 8:00PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 16 2020",
+                        "finalExamStartTime": "6:00 PM",
+                        "finalExamEndTime": "8:00 PM"
                     }
                 }
             ]
@@ -1186,10 +1186,10 @@
                     "instructor": "Axelbaum",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=276790",
                     "finalExam": {
-                        "type": "Dec 14 2020 3:30PM - 5:30PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 14 2020",
+                        "finalExamStartTime": "3:30 PM",
+                        "finalExamEndTime": "5:30 PM"
                     }
                 }
             ]
@@ -1215,10 +1215,10 @@
                     "instructor": "Boyd",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=441358",
                     "finalExam": {
-                        "type": "Dec 11 2020 6:00PM - 8:00PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 11 2020",
+                        "finalExamStartTime": "6:00 PM",
+                        "finalExamEndTime": "8:00 PM"
                     }
                 }
             ]
@@ -1244,10 +1244,10 @@
                     "instructor": "Cary",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=325360",
                     "finalExam": {
-                        "type": "Dec 16 2020 6:00PM - 8:00PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 16 2020",
+                        "finalExamStartTime": "6:00 PM",
+                        "finalExamEndTime": "8:00 PM"
                     }
                 }
             ]
@@ -1273,10 +1273,10 @@
                     "instructor": "Brandon",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=268126",
                     "finalExam": {
-                        "type": "Dec 16 2020 6:00PM - 8:00PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 16 2020",
+                        "finalExamStartTime": "6:00 PM",
+                        "finalExamEndTime": "8:00 PM"
                     }
                 }
             ]
@@ -1331,10 +1331,10 @@
                     "instructor": "Janis",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=322805",
                     "finalExam": {
-                        "type": "Dec 16 2020 3:30PM - 5:30PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 16 2020",
+                        "finalExamStartTime": "3:30 PM",
+                        "finalExamEndTime": "5:30 PM"
                     }
                 }
             ]
@@ -1360,10 +1360,10 @@
                     "instructor": "Agarwal",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=364392",
                     "finalExam": {
-                        "type": "Dec 16 2020 6:00PM - 8:00PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 16 2020",
+                        "finalExamStartTime": "6:00 PM",
+                        "finalExamEndTime": "8:00 PM"
                     }
                 }
             ]
@@ -1389,10 +1389,10 @@
                     "instructor": "Sellers",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=370738",
                     "finalExam": {
-                        "type": "Dec 11 2020 6:00PM - 8:00PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 11 2020",
+                        "finalExamStartTime": "6:00 PM",
+                        "finalExamEndTime": "8:00 PM"
                     }
                 }
             ]
@@ -1418,10 +1418,10 @@
                     "instructor": "Sellers",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=370738",
                     "finalExam": {
-                        "type": "Dec 14 2020 6:00PM - 8:00PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 14 2020",
+                        "finalExamStartTime": "6:00 PM",
+                        "finalExamEndTime": "8:00 PM"
                     }
                 }
             ]
@@ -1447,10 +1447,10 @@
                     "instructor": "Pathak",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=429640",
                     "finalExam": {
-                        "type": "Dec 14 2020 10:30AM - 12:30PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 14 2020",
+                        "finalExamStartTime": "10:30 AM",
+                        "finalExamEndTime": "12:30 PM"
                     }
                 }
             ]
@@ -1505,10 +1505,10 @@
                     "instructor": "Flores",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=167451",
                     "finalExam": {
-                        "type": "Dec 14 2020 3:30PM - 5:30PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 14 2020",
+                        "finalExamStartTime": "3:30 PM",
+                        "finalExamEndTime": "5:30 PM"
                     }
                 }
             ]
@@ -1534,10 +1534,10 @@
                     "instructor": "Sastry",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=275371",
                     "finalExam": {
-                        "type": "Dec 11 2020 6:00PM - 8:00PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 11 2020",
+                        "finalExamStartTime": "6:00 PM",
+                        "finalExamEndTime": "8:00 PM"
                     }
                 }
             ]
@@ -1591,10 +1591,10 @@
                     "instructor": "Singamaneni",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=412026",
                     "finalExam": {
-                        "type": "Dec 14 2020 6:00PM - 8:00PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 14 2020",
+                        "finalExamStartTime": "6:00 PM",
+                        "finalExamEndTime": "8:00 PM"
                     }
                 }
             ]
@@ -1620,10 +1620,10 @@
                     "instructor": "Holland",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=483559",
                     "finalExam": {
-                        "type": "Dec 16 2020 6:00PM - 8:00PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 16 2020",
+                        "finalExamStartTime": "6:00 PM",
+                        "finalExamEndTime": "8:00 PM"
                     }
                 }
             ]
@@ -1649,10 +1649,10 @@
                     "instructor": "Guan",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=467811",
                     "finalExam": {
-                        "type": "Dec 16 2020 6:00PM - 8:00PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 16 2020",
+                        "finalExamStartTime": "6:00 PM",
+                        "finalExamEndTime": "8:00 PM"
                     }
                 }
             ]
@@ -1728,10 +1728,10 @@
                     "instructor": "Jackson",
                     "instructorLink": "https://courses.wustl.edu/InstructorInfo.aspx?ID=141117",
                     "finalExam": {
-                        "type": "Dec 15 2020 6:00PM - 8:00PM",
-                        "finalExamDay": "",
-                        "finalExamStartTime": "",
-                        "finalExamEndTime": ""
+                        "type": "In Class",
+                        "finalExamDay": "Dec 15 2020",
+                        "finalExamStartTime": "6:00 PM",
+                        "finalExamEndTime": "8:00 PM"
                     }
                 }
             ]

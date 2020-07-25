@@ -57,18 +57,18 @@ class Class:
         self.sec = sec
 
     def setTime(self, time):
-        time = cleanString(time)
+        time = cleanString(time).strip()
         txt = time.split('-')
         self.startTime = txt[0]
         self.endTime = txt[1]
         self.startTime += "M"
         self.endTime += "M"
         self.startTime = self.startTime.replace(self.startTime[-2:], " " + self.startTime[-2:])
-        self.endTime = self.endTime.replace(self.startTime[-2:], " " + self.startTime[-2:])
+        self.endTime = self.endTime.replace(self.endTime[-2:], " " + self.endTime[-2:])
 
     def setFinalExam(self, str):
         str = cleanString(str)
-        if any(str.isdigit() for c in str):
+        if "AM" in str or "PM" in str:
             self.finalExam.setType("In Class")
             self.finalExam.setFinalExam(str)
         else:
@@ -96,11 +96,11 @@ class Class:
 
     def setStartDate(self, str):
         if str is not None:
-            self.startDate = cleanString(str)
+            self.startDate = cleanString(str).strip()
 
     def setEndDate(self, str):
         if str is not None:
-            self.endDate = cleanString(str)
+            self.endDate = cleanString(str).strip()
 
 
 
